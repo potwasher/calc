@@ -128,7 +128,7 @@ int main ()
 
 
     return 0;
-}Insight Insanity: 知恵の光を終わらせる part 1 特定のカードを一枚引く確率
+}
 
 
 
