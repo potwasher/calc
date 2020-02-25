@@ -47,24 +47,17 @@ bool countZeus(int array[], int size){
     for(int index = 0; index < size; ++index)
     {
         switch(array[index]){
-            case 1: dmgCount += 2;
+            case 0: dmgCount += 2;
                     storm = true;
                     break;
-            case 2: dmgCount += 3;
+            case 1: dmgCount += 3;
                     break;
-            case 3: ++dmgCount;
+            case 2: ++dmgCount;
                     break;
-            case 4:
+            case 3:
             default: break;
         }
     }
     
-    if(dmgCount >= TARGET_DMG && storm)
-    {
-        return true;
-    }
-    else
-    {
-        return false;
-    }
+    return (dmgCount >= TARGET_DMG && storm);
 }
