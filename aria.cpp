@@ -53,7 +53,7 @@ int main(){
             while(drawsLeft--){
                 if(foundJustAria()) {
                     ok = true;
-                    // break;
+                    break;
                 }
                 --decksize;
             }
@@ -64,7 +64,7 @@ int main(){
                 while(drawsLeft--){
                     if(foundAria()) {
                         ok = true;
-                        // break;
+                        break;
                     }
                     --decksize;
                 }
@@ -76,7 +76,7 @@ int main(){
                 while(drawsLeft--){
                     if(foundAria()){
                         ok = true;
-                        // break;
+                        break;
                     }
                     --decksize;
                 }
