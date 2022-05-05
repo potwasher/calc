@@ -4339,7 +4339,7 @@
             <format-standard>banned</format-standard>
             <pt>4/4</pt>
          </prop>
-         <set rarity="SR" num="004" uuid="004" muid="004" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-004.png">SD01</set>
+         <set rarity="SR" num="004" uuid="004" muid="004" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-004.png">TK</set>
          <token>0</token>
          <tablerow>2</tablerow>
       </card>
@@ -4359,7 +4359,7 @@
             <format-standard>banned</format-standard>
             <pt>5/5</pt>
          </prop>
-         <set rarity="BR" num="010" uuid="010" muid="010" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-010.png">SD01</set>
+         <set rarity="BR" num="010" uuid="010" muid="010" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-010.png">TK</set>
          <token>0</token>
          <tablerow>2</tablerow>
       </card>
@@ -4379,7 +4379,7 @@
             <format-standard>banned</format-standard>
             <pt>2/2</pt>
          </prop>
-         <set rarity="BR" num="012" uuid="012" muid="012" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-012.png">SD01</set>
+         <set rarity="BR" num="012" uuid="012" muid="012" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-012.png">TK</set>
          <token>0</token>
          <tablerow>2</tablerow>
       </card>
@@ -4399,14 +4399,14 @@
             <format-standard>banned</format-standard>
             <pt>4/4</pt>
          </prop>
-         <set rarity="BR" num="018" uuid="018" muid="018" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-018.png">SD01</set>
+         <set rarity="BR" num="018" uuid="018" muid="018" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-018.png">TK</set>
          <token>0</token>
          <tablerow>2</tablerow>
       </card>
 
       <card>
-         <name>Aria, Fairy Princess</name>
-         <text>[Ward] While this follower is in play, all other allied followers with the Fairy trait have [Rush]. Fanfare: From among 9 Fairies, summon any number of them. Put any number of them into your EX Area.</text>
+         <name>Tsubaki</name>
+         <text>Fanfare: Choose 1 of the following effects: [1] Choose an enemy follower. Destroy it. [2] Gain [Storm]. (Followers with [Storm] can attack from the turn they come into play)  </text>
          <prop>
             <layout>normal</layout>
             <side>front</side>
@@ -4414,39 +4414,38 @@
             <maintype>Follower</maintype>
             <manacost>6</manacost>
             <cmc>6</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
+            <colors>Sword</colors>
+            <coloridentity>Sword</coloridentity>
             <format-standard>legal</format-standard>
-            <pt>5/5</pt>
+            <pt>5/4</pt>
          </prop>
-         <set rarity="LG" num="001" uuid="001" muid="001" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-001.png">SD01</set>
-         <related>Fairy</related>
+         <set rarity="LG" num="001" uuid="001" muid="001" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD02/SD02-001.png">SD02</set>
          <token>0</token>
          <tablerow>2</tablerow>
       </card>
 
       <card>
-         <name>Titania's Sanctuary</name>
-         <text>While this amulet is in play, all allied tokens with the Fairy trait have [Direct Attack]. Whenever an allied token with the Fairy trait comes into play, give it +1/+1. Fanfare: Give all allied tokens with the Fairy trait +1/+1.</text>
+         <name>Latham, Vanguard Captain</name>
+         <text>-</text>
          <prop>
             <layout>normal</layout>
             <side>front</side>
-            <type>Amulet</type>
-            <maintype>Amulet</maintype>
+            <type>Follower</type>
+            <maintype>Follower</maintype>
             <manacost>2</manacost>
             <cmc>2</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
+            <colors>Sword</colors>
+            <coloridentity>Sword</coloridentity>
             <format-standard>legal</format-standard>
+            <pt>3/3</pt>
          </prop>
-         <set rarity="GR" num="002" uuid="002" muid="002" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-002.png">SD01</set>
-         <related>Fairy</related>
+         <set rarity="GR" num="002" uuid="002" muid="002" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD02/SD02-002.png">SD02</set>
          <token>0</token>
          <tablerow>2</tablerow>
       </card>
 
       <card>
-         <name>Rose Gardener</name>
+         <name>Floral Fencer</name>
          <text>Evolve (1): Evolve this follower.</text>
          <prop>
             <layout>normal</layout>
@@ -4455,62 +4454,20 @@
             <maintype>Follower</maintype>
             <manacost>3</manacost>
             <cmc>3</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
+            <colors>Sword</colors>
+            <coloridentity>Sword</coloridentity>
             <format-standard>legal</format-standard>
             <pt>3/3</pt>
          </prop>
-         <set rarity="SR" num="003" uuid="003" muid="003" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-003.png">SD01</set>
-         <related attach="1">Rose Gardener (Evolved)</related>
+         <set rarity="SR" num="003" uuid="003" muid="003" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD02/SD02-003.png">SD02</set>
+         <related attach="1">Floral Fencer (Evolved)</related>
          <token>0</token>
          <tablerow>2</tablerow>
       </card>
 
       <card>
-         <name>Waltzing Fairy</name>
-         <text>Fanfare and Last Words: Put a Fairy into your EX area.  [Fairies are 1pp 1/1 Forest Fairy followers.]</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Follower</type>
-            <maintype>Follower</maintype>
-            <manacost>3</manacost>
-            <cmc>3</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>legal</format-standard>
-            <pt>3/3</pt>
-         </prop>
-         <set rarity="SR" num="005" uuid="005" muid="005" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-005.png">SD01</set>
-         <related>Fairy</related>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Fairy Caster</name>
-         <text>Fanfare: Summon 3 Fairies until your board is full. Put the remaining that were not summoned into your EX area.  [Fairies are 1pp 1/1 Forest Fairy followers.]</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Follower</type>
-            <maintype>Follower</maintype>
-            <manacost>4</manacost>
-            <cmc>4</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>legal</format-standard>
-            <pt>3/3</pt>
-         </prop>
-         <set rarity="SR" num="006" uuid="006" muid="006" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-006.png">SD01</set>
-         <related>Fairy</related>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Elf Metallurgist</name>
-         <text>Fanfare: Choose an enemy follower. Deal 1 damage to it. [Combo_3] Deal 3 damage instead. (If at least 3 cards have been played this turn including this card, the effects after [Combo_3] activate.)</text>
+         <name>Assassin</name>
+         <text>Main Phase: [Pay 1pp]: Gain [Bane]. (After followers with [Bane] clash and deal damage to an enemy follower, that enemy follower will be destroyed.)</text>
          <prop>
             <layout>normal</layout>
             <side>front</side>
@@ -4518,19 +4475,19 @@
             <maintype>Follower</maintype>
             <manacost>2</manacost>
             <cmc>2</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
+            <colors>Sword</colors>
+            <coloridentity>Sword</coloridentity>
             <format-standard>legal</format-standard>
             <pt>3/2</pt>
          </prop>
-         <set rarity="BR" num="007" uuid="007" muid="007" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-007.png">SD01</set>
+         <set rarity="SR" num="005" uuid="005" muid="005" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD02/SD02-005.png">SD02</set>
          <token>0</token>
          <tablerow>2</tablerow>
       </card>
 
       <card>
-         <name>Okami</name>
-         <text>Whenever another allied follower comes into play, gain +1/+1.</text>
+         <name>White General</name>
+         <text>[Rush] (Followers with [Rush] can attack enemy followers from the turn they come into play.) Strike: Choose another allied follower. Give it +2 attack.</text>
          <prop>
             <layout>normal</layout>
             <side>front</side>
@@ -4538,40 +4495,19 @@
             <maintype>Follower</maintype>
             <manacost>4</manacost>
             <cmc>4</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
+            <colors>Sword</colors>
+            <coloridentity>Sword</coloridentity>
             <format-standard>legal</format-standard>
-            <pt>5/5</pt>
+            <pt>5/3</pt>
          </prop>
-         <set rarity="BR" num="008" uuid="008" muid="008" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-008.png">SD01</set>
+         <set rarity="SR" num="006" uuid="006" muid="006" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD02/SD02-006.png">SD02</set>
          <token>0</token>
          <tablerow>2</tablerow>
       </card>
 
       <card>
-         <name>Treant</name>
-         <text>Evolve (2): Evolve this follower. Fanfare: [Combo_3] Change this card's Evolve cost to 0. (If at least 3 cards have been played this turn including this card, the effects after [Combo_3] activate.)</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Follower</type>
-            <maintype>Follower</maintype>
-            <manacost>3</manacost>
-            <cmc>3</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>legal</format-standard>
-            <pt>3/3</pt>
-         </prop>
-         <set rarity="BR" num="009" uuid="009" muid="009" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-009.png">SD01</set>
-         <related attach="1">Treant (Evolved)</related>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Water Fairy</name>
-         <text>Evolve (2): Evolve this follower. Last Words: Put a Fairy into your EX area.  [Fairies are 1pp 1/1 Forest Fairy followers.]</text>
+         <name>Ninja Trainee</name>
+         <text>-</text>
          <prop>
             <layout>normal</layout>
             <side>front</side>
@@ -4579,21 +4515,19 @@
             <maintype>Follower</maintype>
             <manacost>1</manacost>
             <cmc>1</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
+            <colors>Sword</colors>
+            <coloridentity>Sword</coloridentity>
             <format-standard>legal</format-standard>
-            <pt>1/1</pt>
+            <pt>2/2</pt>
          </prop>
-         <set rarity="BR" num="011" uuid="011" muid="011" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-011.png">SD01</set>
-         <related attach="1">Water Fairy (Evolved)</related>
-         <related>Fairy</related>
+         <set rarity="BR" num="007" uuid="007" muid="007" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD02/SD02-007.png">SD02</set>
          <token>0</token>
          <tablerow>2</tablerow>
       </card>
 
       <card>
-         <name>Elf Wanderer</name>
-         <text>[Direct Attack] (Followers with [Direct Attack] can attack enemy followers in the Stand state.) Ignore [Ward] while attacking.</text>
+         <name>Veteran Lancer</name>
+         <text>[Ward] (When it comes into play or during your end phase, you can Act this card. Your opponent cannot attack anything other than followers with [Ward] in the Act state.)</text>
          <prop>
             <layout>normal</layout>
             <side>front</side>
@@ -4601,79 +4535,140 @@
             <maintype>Follower</maintype>
             <manacost>2</manacost>
             <cmc>2</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
+            <colors>Sword</colors>
+            <coloridentity>Sword</coloridentity>
             <format-standard>legal</format-standard>
             <pt>2/3</pt>
          </prop>
-         <set rarity="BR" num="013" uuid="013" muid="013" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-013.png">SD01</set>
+         <set rarity="BR" num="008" uuid="008" muid="008" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD02/SD02-008.png">SD02</set>
          <token>0</token>
          <tablerow>2</tablerow>
       </card>
 
       <card>
-         <name>Fairy Circle</name>
-         <text>Put 3 Fairies into your EX area.  [Fairies are 1pp 1/1 Forest Fairy followers.]</text>
+         <name>Fencer</name>
+         <text>Fanfare: Choose another allied follower. Give it +1/+1.</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Follower</type>
+            <maintype>Follower</maintype>
+            <manacost>3</manacost>
+            <cmc>3</cmc>
+            <colors>Sword</colors>
+            <coloridentity>Sword</coloridentity>
+            <format-standard>legal</format-standard>
+            <pt>3/3</pt>
+         </prop>
+         <set rarity="BR" num="009" uuid="009" muid="009" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD02/SD02-009.png">SD02</set>
+         <token>0</token>
+         <tablerow>2</tablerow>
+      </card>
+
+      <card>
+         <name>Oathless Knight</name>
+         <text>Evolve (1): Evolve this follower. Fanfare: Summon a Knight.  [Knights are 1pp 1/1 Sword Officer followers.]</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Follower</type>
+            <maintype>Follower</maintype>
+            <manacost>2</manacost>
+            <cmc>2</cmc>
+            <colors>Sword</colors>
+            <coloridentity>Sword</coloridentity>
+            <format-standard>legal</format-standard>
+            <pt>1/1</pt>
+         </prop>
+         <set rarity="BR" num="010" uuid="010" muid="010" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD02/SD02-010.png">SD02</set>
+         <related attach="1">Oathless Knight (Evolved)</related>
+         <related>Knight</related>
+         <token>0</token>
+         <tablerow>2</tablerow>
+      </card>
+
+      <card>
+         <name>Quickblader</name>
+         <text>Evolve (3): Evolve this follower. [Storm] (Followers with [Storm] can attack from the turn they come into play.)</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Follower</type>
+            <maintype>Follower</maintype>
+            <manacost>1</manacost>
+            <cmc>1</cmc>
+            <colors>Sword</colors>
+            <coloridentity>Sword</coloridentity>
+            <format-standard>legal</format-standard>
+            <pt>1/1</pt>
+         </prop>
+         <set rarity="BR" num="012" uuid="012" muid="012" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD02/SD02-012.png">SD02</set>
+         <related attach="1">Quickblader (Evolved)</related>
+         <token>0</token>
+         <tablerow>2</tablerow>
+      </card>
+
+      <card>
+         <name>Forge Weaponry</name>
+         <text>[Quick] Choose an allied follower. Give it +1/+1. Draw a card.</text>
          <prop>
             <layout>normal</layout>
             <side>front</side>
             <type>Spell</type>
             <maintype>Spell</maintype>
-            <manacost>1</manacost>
-            <cmc>1</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
+            <manacost>2</manacost>
+            <cmc>2</cmc>
+            <colors>Sword</colors>
+            <coloridentity>Sword</coloridentity>
             <format-standard>legal</format-standard>
          </prop>
-         <set rarity="BR" num="014" uuid="014" muid="014" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-014.png">SD01</set>
-         <related>Fairy</related>
+         <set rarity="BR" num="014" uuid="014" muid="014" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD02/SD02-014.png">SD02</set>
          <token>0</token>
          <tablerow>1</tablerow>
       </card>
 
       <card>
-         <name>Woodland Refuge</name>
-         <text>Fanfare: Choose an allied follower with the Fairy trait. Give it +1 attack. Main Phase: [Pay 1pp and Act this card]: Return this card to your hand.</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Amulet</type>
-            <maintype>Amulet</maintype>
-            <manacost>1</manacost>
-            <cmc>1</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>legal</format-standard>
-         </prop>
-         <set rarity="BR" num="015" uuid="015" muid="015" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-015.png">SD01</set>
-         <related>Fairy</related>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Sylvan Justice</name>
-         <text>[Quick] Choose an enemy follower. Deal 3 damage to it. Put a Fairy into your EX area.  [Fairies are 1pp 1/1 Forest Fairy followers.]</text>
+         <name>Onslaught</name>
+         <text>Choose an enemy follower. Deal 5 damage to it. Put a Knight into your EX area.  [Knights are 1pp 1/1 Sword Officer followers.]</text>
          <prop>
             <layout>normal</layout>
             <side>front</side>
             <type>Spell</type>
             <maintype>Spell</maintype>
-            <manacost>2</manacost>
-            <cmc>2</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
+            <manacost>3</manacost>
+            <cmc>3</cmc>
+            <colors>Sword</colors>
+            <coloridentity>Sword</coloridentity>
             <format-standard>legal</format-standard>
          </prop>
-         <set rarity="BR" num="016" uuid="016" muid="016" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-016.png">SD01</set>
-         <related>Fairy</related>
+         <set rarity="BR" num="015" uuid="015" muid="015" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD02/SD02-015.png">SD02</set>
+         <related>Knight</related>
+         <token>0</token>
+         <tablerow>1</tablerow>
+      </card>
+
+      <card>
+         <name>Unbridled Fury</name>
+         <text>[Quick] Choose an enemy follower. Deal X damage to it. X equals the number of allied followers in play.</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Spell</type>
+            <maintype>Spell</maintype>
+            <manacost>1</manacost>
+            <cmc>1</cmc>
+            <colors>Sword</colors>
+            <coloridentity>Sword</coloridentity>
+            <format-standard>legal</format-standard>
+         </prop>
+         <set rarity="BR" num="016" uuid="016" muid="016" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD02/SD02-016.png">SD02</set>
          <token>0</token>
          <tablerow>1</tablerow>
       </card>
 
       <card>
          <name>Goblin</name>
-         <text>Evolve (4): Evolve this follower.</text>
+         <text>Evolve (3): Evolve this follower.</text>
          <prop>
             <layout>normal</layout>
             <side>front</side>
@@ -4686,8 +4681,407 @@
             <format-standard>legal</format-standard>
             <pt>2/2</pt>
          </prop>
-         <set rarity="BR" num="017" uuid="017" muid="017" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-017.png">SD01</set>
+         <set rarity="BR" num="017" uuid="017" muid="017" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD02/SD02-017.png">SD02</set>
          <related attach="1">Goblin (Evolved)</related>
+         <token>0</token>
+         <tablerow>2</tablerow>
+      </card>
+
+      <card>
+         <name>Fighter</name>
+         <text>-</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Follower</type>
+            <maintype>Follower</maintype>
+            <manacost>2</manacost>
+            <cmc>2</cmc>
+            <colors>Neutral</colors>
+            <coloridentity>Neutral</coloridentity>
+            <format-standard>legal</format-standard>
+            <pt>2/3</pt>
+         </prop>
+         <set rarity="BR" num="019" uuid="019" muid="019" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD02/SD02-019.png">SD02</set>
+         <token>0</token>
+         <tablerow>2</tablerow>
+      </card>
+
+      <card>
+         <name>Angelic Sword Maiden</name>
+         <text>[Ward] (When it comes into play or during your end phase, you can Act this card. Your opponent cannot attack anything other than followers with [Ward] in the Act state.)</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Follower</type>
+            <maintype>Follower</maintype>
+            <manacost>5</manacost>
+            <cmc>5</cmc>
+            <colors>Neutral</colors>
+            <coloridentity>Neutral</coloridentity>
+            <format-standard>legal</format-standard>
+            <pt>4/6</pt>
+         </prop>
+         <set rarity="BR" num="020" uuid="020" muid="020" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD02/SD02-020.png">SD02</set>
+         <token>0</token>
+         <tablerow>2</tablerow>
+      </card>
+
+      <card>
+         <name>Floral Fencer (Evolved)</name>
+         <text>Evolve: Summon a Steelclad Knight and a Knight.  [Steelclad Knights are 2pp 2/2 Sword Officer followers.] [Knights are 1pp 1/1 Sword Officer followers.]</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Follower / Evolve</type>
+            <maintype>Follower / Evolve</maintype>
+            <manacost>-</manacost>
+            <cmc>-</cmc>
+            <colors>Sword</colors>
+            <coloridentity>Sword</coloridentity>
+            <format-standard>banned</format-standard>
+            <pt>4/4</pt>
+         </prop>
+         <set rarity="SR" num="004" uuid="004" muid="004" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD02/SD02-004.png">TK</set>
+         <token>0</token>
+         <tablerow>2</tablerow>
+      </card>
+
+      <card>
+         <name>Oathless Knight (Evolved)</name>
+         <text>[Direct Attack] (Followers with [Direct Attack] can attack enemy followers in the Stand state.)</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Follower / Evolve</type>
+            <maintype>Follower / Evolve</maintype>
+            <manacost>-</manacost>
+            <cmc>-</cmc>
+            <colors>Sword</colors>
+            <coloridentity>Sword</coloridentity>
+            <format-standard>banned</format-standard>
+            <pt>3/1</pt>
+         </prop>
+         <set rarity="BR" num="011" uuid="011" muid="011" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD02/SD02-011.png">TK</set>
+         <token>0</token>
+         <tablerow>2</tablerow>
+      </card>
+
+      <card>
+         <name>Quickblader (Evolved)</name>
+         <text>[Storm]</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Follower / Evolve</type>
+            <maintype>Follower / Evolve</maintype>
+            <manacost>-</manacost>
+            <cmc>-</cmc>
+            <colors>Sword</colors>
+            <coloridentity>Sword</coloridentity>
+            <format-standard>banned</format-standard>
+            <pt>3/3</pt>
+         </prop>
+         <set rarity="BR" num="013" uuid="013" muid="013" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD02/SD02-013.png">TK</set>
+         <token>0</token>
+         <tablerow>2</tablerow>
+      </card>
+
+      <card>
+         <name>Goblin (Evolved)</name>
+         <text>-</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Follower / Evolve</type>
+            <maintype>Follower / Evolve</maintype>
+            <manacost>-</manacost>
+            <cmc>-</cmc>
+            <colors>Neutral</colors>
+            <coloridentity>Neutral</coloridentity>
+            <format-standard>banned</format-standard>
+            <pt>4/4</pt>
+         </prop>
+         <set rarity="BR" num="018" uuid="018" muid="018" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD02/SD02-018.png">TK</set>
+         <token>0</token>
+         <tablerow>2</tablerow>
+      </card>
+
+      <card>
+         <name>Mythril Golem</name>
+         <text>Fanfare: Deal 3 damage to all enemy followers. [Spellchain_7] Deal 5 damage instead. [SC_15] Deal 5 damage to all enemy leaders. (If there are at least 7 spells in your graveyard, the effects after [Spellchain_7] activate. If there are at least 15, the effects after [SC_15] also activate.)</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Follower</type>
+            <maintype>Follower</maintype>
+            <manacost>6</manacost>
+            <cmc>6</cmc>
+            <colors>Rune</colors>
+            <coloridentity>Rune</coloridentity>
+            <format-standard>legal</format-standard>
+            <pt>5/6</pt>
+         </prop>
+         <set rarity="LG" num="001" uuid="001" muid="001" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD03/SD03-001.png">SD03</set>
+         <token>0</token>
+         <tablerow>2</tablerow>
+      </card>
+
+      <card>
+         <name>Rune Blade Summoner</name>
+         <text>Fanfare: [Spellchain_5] Gain +4/+4. [SC 10] Gain Storm. (If there are at least 5 spells in your graveyard, the effects after [Spellchain_5] activate. If there are at least 10, the effects after [SC_10] also activate.)</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Follower</type>
+            <maintype>Follower</maintype>
+            <manacost>3</manacost>
+            <cmc>3</cmc>
+            <colors>Rune</colors>
+            <coloridentity>Rune</coloridentity>
+            <format-standard>legal</format-standard>
+            <pt>1/1</pt>
+         </prop>
+         <set rarity="GR" num="002" uuid="002" muid="002" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD03/SD03-002.png">SD03</set>
+         <token>0</token>
+         <tablerow>2</tablerow>
+      </card>
+
+      <card>
+         <name>Demonflame Mage</name>
+         <text>Evolve (1): Evolve this follower.</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Follower</type>
+            <maintype>Follower</maintype>
+            <manacost>3</manacost>
+            <cmc>3</cmc>
+            <colors>Rune</colors>
+            <coloridentity>Rune</coloridentity>
+            <format-standard>legal</format-standard>
+            <pt>3/3</pt>
+         </prop>
+         <set rarity="SR" num="003" uuid="003" muid="003" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD03/SD03-003.png">SD03</set>
+         <related attach="1">Demonflame Mage (Evolved)</related>
+         <token>0</token>
+         <tablerow>2</tablerow>
+      </card>
+
+      <card>
+         <name>Insight</name>
+         <text>[Quick] Draw a card.</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Spell</type>
+            <maintype>Spell</maintype>
+            <manacost>1</manacost>
+            <cmc>1</cmc>
+            <colors>Rune</colors>
+            <coloridentity>Rune</coloridentity>
+            <format-standard>legal</format-standard>
+         </prop>
+         <set rarity="SR" num="005" uuid="005" muid="005" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD03/SD03-005.png">SD03</set>
+         <token>0</token>
+         <tablerow>1</tablerow>
+      </card>
+
+      <card>
+         <name>Fire Chain</name>
+         <text>[Quick] Choose up to 2 enemy followers. Deal a pool of 3 damage divided between them.</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Spell</type>
+            <maintype>Spell</maintype>
+            <manacost>2</manacost>
+            <cmc>2</cmc>
+            <colors>Rune</colors>
+            <coloridentity>Rune</coloridentity>
+            <format-standard>legal</format-standard>
+         </prop>
+         <set rarity="SR" num="006" uuid="006" muid="006" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD03/SD03-006.png">SD03</set>
+         <token>0</token>
+         <tablerow>1</tablerow>
+      </card>
+
+      <card>
+         <name>Lightning Shooter</name>
+         <text>Fanfare: Choose an enemy follower. Deal 2 damage to it. [Spellchain_5] Deal 4 damage instead. [SC_10] Deal 2 damage to that enemy's leader. (If there are at least 5 spells in your graveyard, the effects after [Spellchain_5] activate. If there are at least 10, the effects after [SC_10] also activate.)</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Follower</type>
+            <maintype>Follower</maintype>
+            <manacost>4</manacost>
+            <cmc>4</cmc>
+            <colors>Rune</colors>
+            <coloridentity>Rune</coloridentity>
+            <format-standard>legal</format-standard>
+            <pt>3/3</pt>
+         </prop>
+         <set rarity="BR" num="007" uuid="007" muid="007" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD03/SD03-007.png">SD03</set>
+         <token>0</token>
+         <tablerow>2</tablerow>
+      </card>
+
+      <card>
+         <name>Penguin Wizard</name>
+         <text>Evolve (1): Evolve this follower. Main Phase: [Act this card and Discard a spell from your hand]: Draw a card.</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Follower</type>
+            <maintype>Follower</maintype>
+            <manacost>2</manacost>
+            <cmc>2</cmc>
+            <colors>Rune</colors>
+            <coloridentity>Rune</coloridentity>
+            <format-standard>legal</format-standard>
+            <pt>1/4</pt>
+         </prop>
+         <set rarity="BR" num="008" uuid="008" muid="008" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD03/SD03-008.png">SD03</set>
+         <related attach="1">Penguin Wizard (Evolved)</related>
+         <token>0</token>
+         <tablerow>2</tablerow>
+      </card>
+
+      <card>
+         <name>Sammy, Wizard's Apprentice</name>
+         <text>Evolve (2): Evolve this follower. Fanfare: Look at the top card of your deck. You may put it into your graveyard.</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Follower</type>
+            <maintype>Follower</maintype>
+            <manacost>1</manacost>
+            <cmc>1</cmc>
+            <colors>Rune</colors>
+            <coloridentity>Rune</coloridentity>
+            <format-standard>legal</format-standard>
+            <pt>2/1</pt>
+         </prop>
+         <set rarity="BR" num="010" uuid="010" muid="010" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD03/SD03-010.png">SD03</set>
+         <related attach="1">Sammy, Wizard's Apprentice (Evolved)</related>
+         <token>0</token>
+         <tablerow>2</tablerow>
+      </card>
+
+      <card>
+         <name>Wind Blast</name>
+         <text>Choose an enemy follower. Deal 2 damage to it. [Spellchain_10] Deal 4 damage instead. (If there are at least 10 spells in your graveyard, the effects after [Spellchain_10] activate.)</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Spell</type>
+            <maintype>Spell</maintype>
+            <manacost>1</manacost>
+            <cmc>1</cmc>
+            <colors>Rune</colors>
+            <coloridentity>Rune</coloridentity>
+            <format-standard>legal</format-standard>
+         </prop>
+         <set rarity="BR" num="012" uuid="012" muid="012" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD03/SD03-012.png">SD03</set>
+         <token>0</token>
+         <tablerow>1</tablerow>
+      </card>
+
+      <card>
+         <name>Sorcery Cache</name>
+         <text>[Quick] Look at 4 cards from the top of your deck. You may reveal a spell from among them and add it to your hand. You may put a spell from among them into your graveyard. Put the rest on the bottom of your deck in any order.</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Spell</type>
+            <maintype>Spell</maintype>
+            <manacost>2</manacost>
+            <cmc>2</cmc>
+            <colors>Rune</colors>
+            <coloridentity>Rune</coloridentity>
+            <format-standard>legal</format-standard>
+         </prop>
+         <set rarity="BR" num="013" uuid="013" muid="013" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD03/SD03-013.png">SD03</set>
+         <token>0</token>
+         <tablerow>1</tablerow>
+      </card>
+
+      <card>
+         <name>Fiery Embrace</name>
+         <text>[Quick] Choose an enemy follower. Destroy it. [Spellchain_10] Deal 3 damage to that enemy's leader. (If there are at least 10 spells in your graveyard, the effects after [Spellchain_10] activate.)</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Spell</type>
+            <maintype>Spell</maintype>
+            <manacost>4</manacost>
+            <cmc>4</cmc>
+            <colors>Rune</colors>
+            <coloridentity>Rune</coloridentity>
+            <format-standard>legal</format-standard>
+         </prop>
+         <set rarity="BR" num="014" uuid="014" muid="014" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD03/SD03-014.png">SD03</set>
+         <token>0</token>
+         <tablerow>1</tablerow>
+      </card>
+
+      <card>
+         <name>Magic Missile</name>
+         <text>[Quick] Choose an enemy follower. Deal 2 damage to it. Draw a card.</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Spell</type>
+            <maintype>Spell</maintype>
+            <manacost>3</manacost>
+            <cmc>3</cmc>
+            <colors>Rune</colors>
+            <coloridentity>Rune</coloridentity>
+            <format-standard>legal</format-standard>
+         </prop>
+         <set rarity="BR" num="015" uuid="015" muid="015" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD03/SD03-015.png">SD03</set>
+         <token>0</token>
+         <tablerow>1</tablerow>
+      </card>
+
+      <card>
+         <name>Conjure Golem</name>
+         <text>[Quick] Put a Guardform Golem or Strikeform Golem into your EX area.  [Guardform Golems are 2pp 2/3 Rune Golem followers with [Ward].] [Strikeform Golems are 2pp 3/2 Rune Golem followers with [Rush].]</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Spell</type>
+            <maintype>Spell</maintype>
+            <manacost>1</manacost>
+            <cmc>1</cmc>
+            <colors>Rune</colors>
+            <coloridentity>Rune</coloridentity>
+            <format-standard>legal</format-standard>
+         </prop>
+         <set rarity="BR" num="016" uuid="016" muid="016" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD03/SD03-016.png">SD03</set>
+         <related>Guardform Golem</related>
+         <related>Strikeform Golem</related>
+         <token>0</token>
+         <tablerow>1</tablerow>
+      </card>
+
+      <card>
+         <name>Healing Angel</name>
+         <text>Evolve (1): Evolve this follower. Fanfare: Add 1 to your leader's defense.</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Follower</type>
+            <maintype>Follower</maintype>
+            <manacost>3</manacost>
+            <cmc>3</cmc>
+            <colors>Neutral</colors>
+            <coloridentity>Neutral</coloridentity>
+            <format-standard>legal</format-standard>
+            <pt>2/4</pt>
+         </prop>
+         <set rarity="BR" num="017" uuid="017" muid="017" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD03/SD03-017.png">SD03</set>
+         <related attach="1">Healing Angel (Evolved)</related>
          <token>0</token>
          <tablerow>2</tablerow>
       </card>
@@ -4706,7 +5100,7 @@
             <coloridentity>Neutral</coloridentity>
             <format-standard>legal</format-standard>
          </prop>
-         <set rarity="BR" num="019" uuid="019" muid="019" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-019.png">SD01</set>
+         <set rarity="BR" num="019" uuid="019" muid="019" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD03/SD03-019.png">SD03</set>
          <token>0</token>
          <tablerow>1</tablerow>
       </card>
@@ -4725,14 +5119,14 @@
             <coloridentity>Neutral</coloridentity>
             <format-standard>legal</format-standard>
          </prop>
-         <set rarity="BR" num="020" uuid="020" muid="020" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-020.png">SD01</set>
+         <set rarity="BR" num="020" uuid="020" muid="020" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD03/SD03-020.png">SD03</set>
          <token>0</token>
          <tablerow>1</tablerow>
       </card>
 
       <card>
-         <name>Rose Gardener (Evolved)</name>
-         <text>Evolve: Choose an enemy follower. Return it to the opponent's hand. [Combo_3] Draw a card. (Token cards that are returned to the hand are removed from the game.)</text>
+         <name>Demonflame Mage (Evolved)</name>
+         <text>Evolve: Deal 2 damage to all enemy followers.</text>
          <prop>
             <layout>normal</layout>
             <side>front</side>
@@ -4740,19 +5134,19 @@
             <maintype>Follower / Evolve</maintype>
             <manacost>-</manacost>
             <cmc>-</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
+            <colors>Rune</colors>
+            <coloridentity>Rune</coloridentity>
             <format-standard>banned</format-standard>
             <pt>4/4</pt>
          </prop>
-         <set rarity="SR" num="004" uuid="004" muid="004" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-004.png">SD01</set>
+         <set rarity="SR" num="004" uuid="004" muid="004" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD03/SD03-004.png">TK</set>
          <token>0</token>
          <tablerow>2</tablerow>
       </card>
 
       <card>
-         <name>Treant (Evolved)</name>
-         <text>-</text>
+         <name>Penguin Wizard (Evolved)</name>
+         <text>Evolve: Stand this card. Main Phase: [Act this card and Discard a spell from your hand]: Draw a card.</text>
          <prop>
             <layout>normal</layout>
             <side>front</side>
@@ -4760,19 +5154,19 @@
             <maintype>Follower / Evolve</maintype>
             <manacost>-</manacost>
             <cmc>-</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
+            <colors>Rune</colors>
+            <coloridentity>Rune</coloridentity>
             <format-standard>banned</format-standard>
-            <pt>5/5</pt>
+            <pt>2/5</pt>
          </prop>
-         <set rarity="BR" num="010" uuid="010" muid="010" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-010.png">SD01</set>
+         <set rarity="BR" num="009" uuid="009" muid="009" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD03/SD03-009.png">TK</set>
          <token>0</token>
          <tablerow>2</tablerow>
       </card>
 
       <card>
-         <name>Water Fairy (Evolved)</name>
-         <text>Evolve: Summon a Fairy. Last Words: Put a Fairy into your EX area.</text>
+         <name>Sammy, Wizard's Apprentice (Evolved)</name>
+         <text>Evolve: All players draw a card.</text>
          <prop>
             <layout>normal</layout>
             <side>front</side>
@@ -4780,19 +5174,19 @@
             <maintype>Follower / Evolve</maintype>
             <manacost>-</manacost>
             <cmc>-</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
+            <colors>Rune</colors>
+            <coloridentity>Rune</coloridentity>
             <format-standard>banned</format-standard>
-            <pt>2/2</pt>
+            <pt>3/2</pt>
          </prop>
-         <set rarity="BR" num="012" uuid="012" muid="012" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-012.png">SD01</set>
+         <set rarity="BR" num="011" uuid="011" muid="011" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD03/SD03-011.png">TK</set>
          <token>0</token>
          <tablerow>2</tablerow>
       </card>
 
       <card>
-         <name>Goblin (Evolved)</name>
-         <text>-</text>
+         <name>Healing Angel (Evolved)</name>
+         <text>Evolve: Add 2 to your leader's defense.</text>
          <prop>
             <layout>normal</layout>
             <side>front</side>
@@ -4803,56 +5197,53 @@
             <colors>Neutral</colors>
             <coloridentity>Neutral</coloridentity>
             <format-standard>banned</format-standard>
-            <pt>4/4</pt>
+            <pt>3/5</pt>
          </prop>
-         <set rarity="BR" num="018" uuid="018" muid="018" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-018.png">SD01</set>
+         <set rarity="BR" num="018" uuid="018" muid="018" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD03/SD03-018.png">TK</set>
          <token>0</token>
          <tablerow>2</tablerow>
       </card>
-
       <card>
-         <name>Aria, Fairy Princess</name>
-         <text>[Ward] While this follower is in play, all other allied followers with the Fairy trait have [Rush]. Fanfare: From among 9 Fairies, summon any number of them. Put any number of them into your EX Area.</text>
+         <name>Fafnir</name>
+         <text>Fanfare: Deal 5 damage to all enemy followers.</text>
          <prop>
             <layout>normal</layout>
             <side>front</side>
             <type>Follower</type>
             <maintype>Follower</maintype>
-            <manacost>6</manacost>
-            <cmc>6</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
+            <manacost>8</manacost>
+            <cmc>8</cmc>
+            <colors>Dragon</colors>
+            <coloridentity>Dragon</coloridentity>
             <format-standard>legal</format-standard>
-            <pt>5/5</pt>
+            <pt>7/8</pt>
          </prop>
-         <set rarity="LG" num="001" uuid="001" muid="001" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-001.png">SD01</set>
-         <related>Fairy</related>
+         <set rarity="LG" num="001" uuid="001" muid="001" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD04/SD04-001.png">SD04</set>
          <token>0</token>
          <tablerow>2</tablerow>
       </card>
 
       <card>
-         <name>Titania's Sanctuary</name>
-         <text>While this amulet is in play, all allied tokens with the Fairy trait have [Direct Attack]. Whenever an allied token with the Fairy trait comes into play, give it +1/+1. Fanfare: Give all allied tokens with the Fairy trait +1/+1.</text>
+         <name>Dragon Oracle</name>
+         <text>Choose one of the following: [1] Gain an empty play point orb. [2] Draw a card.</text>
          <prop>
             <layout>normal</layout>
             <side>front</side>
-            <type>Amulet</type>
-            <maintype>Amulet</maintype>
+            <type>Spell</type>
+            <maintype>Spell</maintype>
             <manacost>2</manacost>
             <cmc>2</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
+            <colors>Dragon</colors>
+            <coloridentity>Dragon</coloridentity>
             <format-standard>legal</format-standard>
          </prop>
-         <set rarity="GR" num="002" uuid="002" muid="002" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-002.png">SD01</set>
-         <related>Fairy</related>
+         <set rarity="GR" num="002" uuid="002" muid="002" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD04/SD04-002.png">SD04</set>
          <token>0</token>
-         <tablerow>2</tablerow>
+         <tablerow>1</tablerow>
       </card>
 
       <card>
-         <name>Rose Gardener</name>
+         <name>Dragon Warrior</name>
          <text>Evolve (1): Evolve this follower.</text>
          <prop>
             <layout>normal</layout>
@@ -4861,62 +5252,20 @@
             <maintype>Follower</maintype>
             <manacost>3</manacost>
             <cmc>3</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
+            <colors>Dragon</colors>
+            <coloridentity>Dragon</coloridentity>
             <format-standard>legal</format-standard>
             <pt>3/3</pt>
          </prop>
-         <set rarity="SR" num="003" uuid="003" muid="003" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-003.png">SD01</set>
-         <related attach="1">Rose Gardener (Evolved)</related>
+         <set rarity="SR" num="003" uuid="003" muid="003" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD04/SD04-003.png">SD04</set>
+         <related attach="1">Dragon Warrior (Evolved)</related>
          <token>0</token>
          <tablerow>2</tablerow>
       </card>
 
       <card>
-         <name>Waltzing Fairy</name>
-         <text>Fanfare and Last Words: Put a Fairy into your EX area.  [Fairies are 1pp 1/1 Forest Fairy followers.]</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Follower</type>
-            <maintype>Follower</maintype>
-            <manacost>3</manacost>
-            <cmc>3</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>legal</format-standard>
-            <pt>3/3</pt>
-         </prop>
-         <set rarity="SR" num="005" uuid="005" muid="005" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-005.png">SD01</set>
-         <related>Fairy</related>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Fairy Caster</name>
-         <text>Fanfare: Summon 3 Fairies until your board is full. Put the remaining that were not summoned into your EX area.  [Fairies are 1pp 1/1 Forest Fairy followers.]</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Follower</type>
-            <maintype>Follower</maintype>
-            <manacost>4</manacost>
-            <cmc>4</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>legal</format-standard>
-            <pt>3/3</pt>
-         </prop>
-         <set rarity="SR" num="006" uuid="006" muid="006" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-006.png">SD01</set>
-         <related>Fairy</related>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Elf Metallurgist</name>
-         <text>Fanfare: Choose an enemy follower. Deal 1 damage to it. [Combo_3] Deal 3 damage instead. (If at least 3 cards have been played this turn including this card, the effects after [Combo_3] activate.)</text>
+         <name>Dragonewt Princess</name>
+         <text>Fanfare: If [Overflow] is active for you, choose an enemy follower. Deal 4 damage to it. ([Overflow] is active if you have at least 7 play point orbs.)</text>
          <prop>
             <layout>normal</layout>
             <side>front</side>
@@ -4924,176 +5273,234 @@
             <maintype>Follower</maintype>
             <manacost>2</manacost>
             <cmc>2</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>legal</format-standard>
-            <pt>3/2</pt>
-         </prop>
-         <set rarity="BR" num="007" uuid="007" muid="007" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-007.png">SD01</set>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Okami</name>
-         <text>Whenever another allied follower comes into play, gain +1/+1.</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Follower</type>
-            <maintype>Follower</maintype>
-            <manacost>4</manacost>
-            <cmc>4</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>legal</format-standard>
-            <pt>5/5</pt>
-         </prop>
-         <set rarity="BR" num="008" uuid="008" muid="008" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-008.png">SD01</set>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Treant</name>
-         <text>Evolve (2): Evolve this follower. Fanfare: [Combo_3] Change this card's Evolve cost to 0. (If at least 3 cards have been played this turn including this card, the effects after [Combo_3] activate.)</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Follower</type>
-            <maintype>Follower</maintype>
-            <manacost>3</manacost>
-            <cmc>3</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>legal</format-standard>
-            <pt>3/3</pt>
-         </prop>
-         <set rarity="BR" num="009" uuid="009" muid="009" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-009.png">SD01</set>
-         <related attach="1">Treant (Evolved)</related>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Water Fairy</name>
-         <text>Evolve (2): Evolve this follower. Last Words: Put a Fairy into your EX area.  [Fairies are 1pp 1/1 Forest Fairy followers.]</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Follower</type>
-            <maintype>Follower</maintype>
-            <manacost>1</manacost>
-            <cmc>1</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>legal</format-standard>
-            <pt>1/1</pt>
-         </prop>
-         <set rarity="BR" num="011" uuid="011" muid="011" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-011.png">SD01</set>
-         <related attach="1">Water Fairy (Evolved)</related>
-         <related>Fairy</related>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Elf Wanderer</name>
-         <text>[Direct Attack] (Followers with [Direct Attack] can attack enemy followers in the Stand state.) Ignore [Ward] while attacking.</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Follower</type>
-            <maintype>Follower</maintype>
-            <manacost>2</manacost>
-            <cmc>2</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
+            <colors>Dragon</colors>
+            <coloridentity>Dragon</coloridentity>
             <format-standard>legal</format-standard>
             <pt>2/3</pt>
          </prop>
-         <set rarity="BR" num="013" uuid="013" muid="013" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-013.png">SD01</set>
+         <set rarity="SR" num="005" uuid="005" muid="005" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD04/SD04-005.png">SD04</set>
          <token>0</token>
          <tablerow>2</tablerow>
       </card>
 
       <card>
-         <name>Fairy Circle</name>
-         <text>Put 3 Fairies into your EX area.  [Fairies are 1pp 1/1 Forest Fairy followers.]</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Spell</type>
-            <maintype>Spell</maintype>
-            <manacost>1</manacost>
-            <cmc>1</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>legal</format-standard>
-         </prop>
-         <set rarity="BR" num="014" uuid="014" muid="014" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-014.png">SD01</set>
-         <related>Fairy</related>
-         <token>0</token>
-         <tablerow>1</tablerow>
-      </card>
-
-      <card>
-         <name>Woodland Refuge</name>
-         <text>Fanfare: Choose an allied follower with the Fairy trait. Give it +1 attack. Main Phase: [Pay 1pp and Act this card]: Return this card to your hand.</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Amulet</type>
-            <maintype>Amulet</maintype>
-            <manacost>1</manacost>
-            <cmc>1</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>legal</format-standard>
-         </prop>
-         <set rarity="BR" num="015" uuid="015" muid="015" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-015.png">SD01</set>
-         <related>Fairy</related>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Sylvan Justice</name>
-         <text>[Quick] Choose an enemy follower. Deal 3 damage to it. Put a Fairy into your EX area.  [Fairies are 1pp 1/1 Forest Fairy followers.]</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Spell</type>
-            <maintype>Spell</maintype>
-            <manacost>2</manacost>
-            <cmc>2</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>legal</format-standard>
-         </prop>
-         <set rarity="BR" num="016" uuid="016" muid="016" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-016.png">SD01</set>
-         <related>Fairy</related>
-         <token>0</token>
-         <tablerow>1</tablerow>
-      </card>
-
-      <card>
-         <name>Goblin</name>
-         <text>Evolve (4): Evolve this follower.</text>
+         <name>Dragonguard</name>
+         <text>[Ward] (When it comes into play or during your end phase, you can Act this card. Your opponent cannot attack anything other than followers with [Ward] in the Act state.) Fanfare: If [Overflow] is active for you, gain +2/+2.</text>
          <prop>
             <layout>normal</layout>
             <side>front</side>
             <type>Follower</type>
             <maintype>Follower</maintype>
-            <manacost>1</manacost>
-            <cmc>1</cmc>
-            <colors>Neutral</colors>
-            <coloridentity>Neutral</coloridentity>
+            <manacost>4</manacost>
+            <cmc>4</cmc>
+            <colors>Dragon</colors>
+            <coloridentity>Dragon</coloridentity>
+            <format-standard>legal</format-standard>
+            <pt>4/5</pt>
+         </prop>
+         <set rarity="SR" num="006" uuid="006" muid="006" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD04/SD04-006.png">SD04</set>
+         <token>0</token>
+         <tablerow>2</tablerow>
+      </card>
+
+      <card>
+         <name>Fire Lizard</name>
+         <text>Fanfare: Choose an enemy leader or enemy follower. Deal 1 damage to it.</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Follower</type>
+            <maintype>Follower</maintype>
+            <manacost>2</manacost>
+            <cmc>2</cmc>
+            <colors>Dragon</colors>
+            <coloridentity>Dragon</coloridentity>
+            <format-standard>legal</format-standard>
+            <pt>3/2</pt>
+         </prop>
+         <set rarity="BR" num="007" uuid="007" muid="007" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD04/SD04-007.png">SD04</set>
+         <token>0</token>
+         <tablerow>2</tablerow>
+      </card>
+
+      <card>
+         <name>Dread Dragon</name>
+         <text>Fanfare: Choose an enemy follower. Deal 7 damage to it.</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Follower</type>
+            <maintype>Follower</maintype>
+            <manacost>7</manacost>
+            <cmc>7</cmc>
+            <colors>Dragon</colors>
+            <coloridentity>Dragon</coloridentity>
+            <format-standard>legal</format-standard>
+            <pt>7/7</pt>
+         </prop>
+         <set rarity="BR" num="008" uuid="008" muid="008" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD04/SD04-008.png">SD04</set>
+         <token>0</token>
+         <tablerow>2</tablerow>
+      </card>
+
+      <card>
+         <name>Roc</name>
+         <text>Evolve (0): Evolve this follower. Strike: Gain +1 attack.</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Follower</type>
+            <maintype>Follower</maintype>
+            <manacost>3</manacost>
+            <cmc>3</cmc>
+            <colors>Dragon</colors>
+            <coloridentity>Dragon</coloridentity>
+            <format-standard>legal</format-standard>
+            <pt>3/3</pt>
+         </prop>
+         <set rarity="BR" num="009" uuid="009" muid="009" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD04/SD04-009.png">SD04</set>
+         <related attach="1">Roc (Evolved)</related>
+         <token>0</token>
+         <tablerow>2</tablerow>
+      </card>
+
+      <card>
+         <name>Glint Dragon</name>
+         <text>Fanfare: Choose an enemy follower. Deal 3 damage to it.</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Follower</type>
+            <maintype>Follower</maintype>
+            <manacost>4</manacost>
+            <cmc>4</cmc>
+            <colors>Dragon</colors>
+            <coloridentity>Dragon</coloridentity>
+            <format-standard>legal</format-standard>
+            <pt>5/3</pt>
+         </prop>
+         <set rarity="BR" num="011" uuid="011" muid="011" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD04/SD04-011.png">SD04</set>
+         <token>0</token>
+         <tablerow>2</tablerow>
+      </card>
+
+      <card>
+         <name>Dragonrider</name>
+         <text>Evolve (1): Evolve this follower. Fanfare: If [Overflow] is active for you, put a Dragon into your EX Area.  [Dragons are 4pp 5/5 Dragon Dragon followers.]</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Follower</type>
+            <maintype>Follower</maintype>
+            <manacost>2</manacost>
+            <cmc>2</cmc>
+            <colors>Dragon</colors>
+            <coloridentity>Dragon</coloridentity>
             <format-standard>legal</format-standard>
             <pt>2/2</pt>
          </prop>
-         <set rarity="BR" num="017" uuid="017" muid="017" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-017.png">SD01</set>
-         <related attach="1">Goblin (Evolved)</related>
+         <set rarity="BR" num="012" uuid="012" muid="012" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD04/SD04-012.png">SD04</set>
+         <related attach="1">Dragonrider (Evolved)</related>
+         <related>Dragon</related>
+         <token>0</token>
+         <tablerow>2</tablerow>
+      </card>
+
+      <card>
+         <name>Seabrand Dragon</name>
+         <text>Fanfare: If [Overflow] is active for you, gain [Storm]. ([Overflow] is active if you have at least 7 play point orbs.)</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Follower</type>
+            <maintype>Follower</maintype>
+            <manacost>4</manacost>
+            <cmc>4</cmc>
+            <colors>Dragon</colors>
+            <coloridentity>Dragon</coloridentity>
+            <format-standard>legal</format-standard>
+            <pt>4/4</pt>
+         </prop>
+         <set rarity="BR" num="014" uuid="014" muid="014" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD04/SD04-014.png">SD04</set>
+         <token>0</token>
+         <tablerow>2</tablerow>
+      </card>
+
+      <card>
+         <name>Blazing Breath</name>
+         <text>[Quick] Choose an enemy follower. Deal 2 damage to it. If [Overflow] is active for you, deal 4 damage instead. ([Overflow] is active if you have at least 7 play point orbs.)</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Spell</type>
+            <maintype>Spell</maintype>
+            <manacost>1</manacost>
+            <cmc>1</cmc>
+            <colors>Dragon</colors>
+            <coloridentity>Dragon</coloridentity>
+            <format-standard>legal</format-standard>
+         </prop>
+         <set rarity="BR" num="015" uuid="015" muid="015" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD04/SD04-015.png">SD04</set>
+         <token>0</token>
+         <tablerow>1</tablerow>
+      </card>
+
+      <card>
+         <name>Dragon Wings</name>
+         <text>Deal 2 damage to all followers. If [Overflow] is active for you, deal 3 damage instead. ([Overflow] is active if you have at least 7 play point orbs.)</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Spell</type>
+            <maintype>Spell</maintype>
+            <manacost>3</manacost>
+            <cmc>3</cmc>
+            <colors>Dragon</colors>
+            <coloridentity>Dragon</coloridentity>
+            <format-standard>legal</format-standard>
+         </prop>
+         <set rarity="BR" num="016" uuid="016" muid="016" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD04/SD04-016.png">SD04</set>
+         <token>0</token>
+         <tablerow>1</tablerow>
+      </card>
+
+      <card>
+         <name>Goliath</name>
+         <text>Evolve (2): Evolve this follower.</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Follower</type>
+            <maintype>Follower</maintype>
+            <manacost>3</manacost>
+            <cmc>3</cmc>
+            <colors>Neutral</colors>
+            <coloridentity>Neutral</coloridentity>
+            <format-standard>legal</format-standard>
+            <pt>3/4</pt>
+         </prop>
+         <set rarity="BR" num="017" uuid="017" muid="017" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD04/SD04-017.png">SD04</set>
+         <related attach="1">Goliath (Evolved)</related>
+         <token>0</token>
+         <tablerow>2</tablerow>
+      </card>
+
+      <card>
+         <name>Angelic Sword Maiden</name>
+         <text>[Ward] (When it comes into play or during your end phase, you can Act this card. Your opponent cannot attack anything other than followers with [Ward] in the Act state.)</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Follower</type>
+            <maintype>Follower</maintype>
+            <manacost>5</manacost>
+            <cmc>5</cmc>
+            <colors>Neutral</colors>
+            <coloridentity>Neutral</coloridentity>
+            <format-standard>legal</format-standard>
+            <pt>4/6</pt>
+         </prop>
+         <set rarity="BR" num="019" uuid="019" muid="019" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD04/SD04-019.png">SD04</set>
          <token>0</token>
          <tablerow>2</tablerow>
       </card>
@@ -5112,113 +5519,94 @@
             <coloridentity>Neutral</coloridentity>
             <format-standard>legal</format-standard>
          </prop>
-         <set rarity="BR" num="019" uuid="019" muid="019" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-019.png">SD01</set>
+         <set rarity="BR" num="020" uuid="020" muid="020" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD04/SD04-020.png">SD04</set>
          <token>0</token>
          <tablerow>1</tablerow>
       </card>
 
       <card>
-         <name>Angelic Barrage</name>
-         <text>[Quick] Deal 1 damage to all enemy followers.</text>
+         <name>Dragon Warrior (Evolved)</name>
+         <text>Evolve: Choose an enemy follower. Deal 3 damage to it.</text>
          <prop>
             <layout>normal</layout>
             <side>front</side>
-            <type>Spell</type>
-            <maintype>Spell</maintype>
-            <manacost>1</manacost>
-            <cmc>1</cmc>
-            <colors>Neutral</colors>
-            <coloridentity>Neutral</coloridentity>
-            <format-standard>legal</format-standard>
-         </prop>
-         <set rarity="BR" num="020" uuid="020" muid="020" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-020.png">SD01</set>
-         <token>0</token>
-         <tablerow>1</tablerow>
-      </card>
-
-      <card>
-         <name>Rose Gardener (Evolved)</name>
-         <text>Evolve: Choose an enemy follower. Return it to the opponent's hand. [Combo_3] Draw a card. (Token cards that are returned to the hand are removed from the game.)</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Follower / Evolve</type>
-            <maintype>Follower / Evolve</maintype>
+            <type>Evolved Follower</type>
+            <maintype>Evolved Follower</maintype>
             <manacost>-</manacost>
             <cmc>-</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
+            <colors>Dragon</colors>
+            <coloridentity>Dragon</coloridentity>
             <format-standard>banned</format-standard>
             <pt>4/4</pt>
          </prop>
-         <set rarity="SR" num="004" uuid="004" muid="004" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-004.png">SD01</set>
+         <set rarity="SR" num="004" uuid="004" muid="004" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD04/SD04-004.png">TK</set>
          <token>0</token>
          <tablerow>2</tablerow>
       </card>
 
       <card>
-         <name>Treant (Evolved)</name>
+         <name>Roc (Evolved)</name>
+         <text>Strike: Gain +1/+1.</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Evolved Follower</type>
+            <maintype>Evolved Follower</maintype>
+            <manacost>-</manacost>
+            <cmc>-</cmc>
+            <colors>Dragon</colors>
+            <coloridentity>Dragon</coloridentity>
+            <format-standard>banned</format-standard>
+            <pt>3/3</pt>
+         </prop>
+         <set rarity="BR" num="010" uuid="010" muid="010" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD04/SD04-010.png">TK</set>
+         <token>0</token>
+         <tablerow>2</tablerow>
+      </card>
+
+      <card>
+         <name>Dragonrider (Evolved)</name>
+         <text>Evolve: If [Overflow] is active for you, gain +2 attack. ([Overflow] is active if you have at least 7 play point orbs.)</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Evolved Follower</type>
+            <maintype>Evolved Follower</maintype>
+            <manacost>-</manacost>
+            <cmc>-</cmc>
+            <colors>Dragon</colors>
+            <coloridentity>Dragon</coloridentity>
+            <format-standard>banned</format-standard>
+            <pt>3/3</pt>
+         </prop>
+         <set rarity="BR" num="013" uuid="013" muid="013" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD04/SD04-013.png">TK</set>
+         <token>0</token>
+         <tablerow>2</tablerow>
+      </card>
+
+      <card>
+         <name>Goliath (Evolved)</name>
          <text>-</text>
          <prop>
             <layout>normal</layout>
             <side>front</side>
-            <type>Follower / Evolve</type>
-            <maintype>Follower / Evolve</maintype>
-            <manacost>-</manacost>
-            <cmc>-</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>banned</format-standard>
-            <pt>5/5</pt>
-         </prop>
-         <set rarity="BR" num="010" uuid="010" muid="010" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-010.png">SD01</set>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Water Fairy (Evolved)</name>
-         <text>Evolve: Summon a Fairy. Last Words: Put a Fairy into your EX area.</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Follower / Evolve</type>
-            <maintype>Follower / Evolve</maintype>
-            <manacost>-</manacost>
-            <cmc>-</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>banned</format-standard>
-            <pt>2/2</pt>
-         </prop>
-         <set rarity="BR" num="012" uuid="012" muid="012" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-012.png">SD01</set>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Goblin (Evolved)</name>
-         <text>-</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Follower / Evolve</type>
-            <maintype>Follower / Evolve</maintype>
+            <type>Evolved Follower</type>
+            <maintype>Evolved Follower</maintype>
             <manacost>-</manacost>
             <cmc>-</cmc>
             <colors>Neutral</colors>
             <coloridentity>Neutral</coloridentity>
             <format-standard>banned</format-standard>
-            <pt>4/4</pt>
+            <pt>5/6</pt>
          </prop>
-         <set rarity="BR" num="018" uuid="018" muid="018" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-018.png">SD01</set>
+         <set rarity="BR" num="018" uuid="018" muid="018" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD04/SD04-018.png">TK</set>
          <token>0</token>
          <tablerow>2</tablerow>
       </card>
 
       <card>
-         <name>Aria, Fairy Princess</name>
-         <text>[Ward] While this follower is in play, all other allied followers with the Fairy trait have [Rush]. Fanfare: From among 9 Fairies, summon any number of them. Put any number of them into your EX Area.</text>
+         <name>Vampire Queen</name>
+         <text>Whenever an allied Forest Bat comes into play, give it +1 attack and [Ward]. Fanfare: Summon 2 Forest Bats. Main Phase: [Act this card and Subtract 1 from your leader's defense]: Summon 2 Forest Bats.</text>
          <prop>
             <layout>normal</layout>
             <side>front</side>
@@ -5226,39 +5614,39 @@
             <maintype>Follower</maintype>
             <manacost>6</manacost>
             <cmc>6</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
+            <colors>Nightmare</colors>
+            <coloridentity>Nightmare</coloridentity>
             <format-standard>legal</format-standard>
             <pt>5/5</pt>
          </prop>
-         <set rarity="LG" num="001" uuid="001" muid="001" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-001.png">SD01</set>
-         <related>Fairy</related>
+         <set rarity="LG" num="001" uuid="001" muid="001" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD05/SD05-001.png">SD05</set>
+         <related>Forest Bat</related>
          <token>0</token>
          <tablerow>2</tablerow>
       </card>
 
       <card>
-         <name>Titania's Sanctuary</name>
-         <text>While this amulet is in play, all allied tokens with the Fairy trait have [Direct Attack]. Whenever an allied token with the Fairy trait comes into play, give it +1/+1. Fanfare: Give all allied tokens with the Fairy trait +1/+1.</text>
+         <name>Alucard</name>
+         <text>[Storm] Strike: Choose an enemy follower. Deal 4 damage to it. Add 4 to your leader's defense. Fanfare: [Necrocharge_10] Gain +2 attack.</text>
          <prop>
             <layout>normal</layout>
             <side>front</side>
-            <type>Amulet</type>
-            <maintype>Amulet</maintype>
-            <manacost>2</manacost>
-            <cmc>2</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
+            <type>Follower</type>
+            <maintype>Follower</maintype>
+            <manacost>7</manacost>
+            <cmc>7</cmc>
+            <colors>Nightmare</colors>
+            <coloridentity>Nightmare</coloridentity>
             <format-standard>legal</format-standard>
+            <pt>4/4</pt>
          </prop>
-         <set rarity="GR" num="002" uuid="002" muid="002" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-002.png">SD01</set>
-         <related>Fairy</related>
+         <set rarity="GR" num="002" uuid="002" muid="002" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD05/SD05-002.png">SD05</set>
          <token>0</token>
          <tablerow>2</tablerow>
       </card>
 
       <card>
-         <name>Rose Gardener</name>
+         <name>Playful Necromancer</name>
          <text>Evolve (1): Evolve this follower.</text>
          <prop>
             <layout>normal</layout>
@@ -5267,20 +5655,20 @@
             <maintype>Follower</maintype>
             <manacost>3</manacost>
             <cmc>3</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
+            <colors>Nightmare</colors>
+            <coloridentity>Nightmare</coloridentity>
             <format-standard>legal</format-standard>
             <pt>3/3</pt>
          </prop>
-         <set rarity="SR" num="003" uuid="003" muid="003" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-003.png">SD01</set>
-         <related attach="1">Rose Gardener (Evolved)</related>
+         <set rarity="SR" num="003" uuid="003" muid="003" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD05/SD05-003.png">SD05</set>
+         <related attach="1">Playful Necromancer (Evolved)</related>
          <token>0</token>
          <tablerow>2</tablerow>
       </card>
 
       <card>
-         <name>Waltzing Fairy</name>
-         <text>Fanfare and Last Words: Put a Fairy into your EX area.  [Fairies are 1pp 1/1 Forest Fairy followers.]</text>
+         <name>Midnight Vampire</name>
+         <text>While this follower is in play, all allied Forest Bats have [Drain]. (Followers with [Drain] add an amount to your leader's defense equal to the damage they deal when they attack.) Fanfare: Summon a Forest Bat.</text>
          <prop>
             <layout>normal</layout>
             <side>front</side>
@@ -5288,124 +5676,40 @@
             <maintype>Follower</maintype>
             <manacost>3</manacost>
             <cmc>3</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
+            <colors>Nightmare</colors>
+            <coloridentity>Nightmare</coloridentity>
             <format-standard>legal</format-standard>
-            <pt>3/3</pt>
+            <pt>2/4</pt>
          </prop>
-         <set rarity="SR" num="005" uuid="005" muid="005" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-005.png">SD01</set>
-         <related>Fairy</related>
+         <set rarity="SR" num="005" uuid="005" muid="005" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD05/SD05-005.png">SD05</set>
+         <related>Forest Bat</related>
          <token>0</token>
          <tablerow>2</tablerow>
       </card>
 
       <card>
-         <name>Fairy Caster</name>
-         <text>Fanfare: Summon 3 Fairies until your board is full. Put the remaining that were not summoned into your EX area.  [Fairies are 1pp 1/1 Forest Fairy followers.]</text>
+         <name>Night Horde</name>
+         <text>Summon 2 Forest Bats. Choose an enemy follower. Deal X damage to it. X equals the number of allied Forest Bats in play.  [Forest Bats are 1pp 1/1 Nightmare Vampire followers.]</text>
          <prop>
             <layout>normal</layout>
             <side>front</side>
-            <type>Follower</type>
-            <maintype>Follower</maintype>
-            <manacost>4</manacost>
-            <cmc>4</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>legal</format-standard>
-            <pt>3/3</pt>
-         </prop>
-         <set rarity="SR" num="006" uuid="006" muid="006" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-006.png">SD01</set>
-         <related>Fairy</related>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Elf Metallurgist</name>
-         <text>Fanfare: Choose an enemy follower. Deal 1 damage to it. [Combo_3] Deal 3 damage instead. (If at least 3 cards have been played this turn including this card, the effects after [Combo_3] activate.)</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Follower</type>
-            <maintype>Follower</maintype>
-            <manacost>2</manacost>
-            <cmc>2</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>legal</format-standard>
-            <pt>3/2</pt>
-         </prop>
-         <set rarity="BR" num="007" uuid="007" muid="007" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-007.png">SD01</set>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Okami</name>
-         <text>Whenever another allied follower comes into play, gain +1/+1.</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Follower</type>
-            <maintype>Follower</maintype>
-            <manacost>4</manacost>
-            <cmc>4</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>legal</format-standard>
-            <pt>5/5</pt>
-         </prop>
-         <set rarity="BR" num="008" uuid="008" muid="008" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-008.png">SD01</set>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Treant</name>
-         <text>Evolve (2): Evolve this follower. Fanfare: [Combo_3] Change this card's Evolve cost to 0. (If at least 3 cards have been played this turn including this card, the effects after [Combo_3] activate.)</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Follower</type>
-            <maintype>Follower</maintype>
+            <type>Spell</type>
+            <maintype>Spell</maintype>
             <manacost>3</manacost>
             <cmc>3</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
+            <colors>Nightmare</colors>
+            <coloridentity>Nightmare</coloridentity>
             <format-standard>legal</format-standard>
-            <pt>3/3</pt>
          </prop>
-         <set rarity="BR" num="009" uuid="009" muid="009" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-009.png">SD01</set>
-         <related attach="1">Treant (Evolved)</related>
+         <set rarity="SR" num="006" uuid="006" muid="006" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD05/SD05-006.png">SD05</set>
+         <related>Forest Bat</related>
          <token>0</token>
-         <tablerow>2</tablerow>
+         <tablerow>1</tablerow>
       </card>
 
       <card>
-         <name>Water Fairy</name>
-         <text>Evolve (2): Evolve this follower. Last Words: Put a Fairy into your EX area.  [Fairies are 1pp 1/1 Forest Fairy followers.]</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Follower</type>
-            <maintype>Follower</maintype>
-            <manacost>1</manacost>
-            <cmc>1</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>legal</format-standard>
-            <pt>1/1</pt>
-         </prop>
-         <set rarity="BR" num="011" uuid="011" muid="011" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-011.png">SD01</set>
-         <related attach="1">Water Fairy (Evolved)</related>
-         <related>Fairy</related>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Elf Wanderer</name>
-         <text>[Direct Attack] (Followers with [Direct Attack] can attack enemy followers in the Stand state.) Ignore [Ward] while attacking.</text>
+         <name>Spectre</name>
+         <text>[Bane] (After followers with [Bane] clash and deal damage to an enemy follower, that enemy follower will be destroyed.) Fanfare: [Subtract 2 from your leader's defense]: Gain [Rush]. Put the top card of your deck into your graveyard.</text>
          <prop>
             <layout>normal</layout>
             <side>front</side>
@@ -5413,19 +5717,140 @@
             <maintype>Follower</maintype>
             <manacost>2</manacost>
             <cmc>2</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
+            <colors>Nightmare</colors>
+            <coloridentity>Nightmare</coloridentity>
+            <format-standard>legal</format-standard>
+            <pt>2/1</pt>
+         </prop>
+         <set rarity="BR" num="007" uuid="007" muid="007" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD05/SD05-007.png">SD05</set>
+         <token>0</token>
+         <tablerow>2</tablerow>
+      </card>
+
+      <card>
+         <name>Spartoi Sergeant</name>
+         <text>Fanfare: Put 2 cards from the top of your deck into your graveyard.</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Follower</type>
+            <maintype>Follower</maintype>
+            <manacost>2</manacost>
+            <cmc>2</cmc>
+            <colors>Nightmare</colors>
+            <coloridentity>Nightmare</coloridentity>
             <format-standard>legal</format-standard>
             <pt>2/3</pt>
          </prop>
-         <set rarity="BR" num="013" uuid="013" muid="013" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-013.png">SD01</set>
+         <set rarity="BR" num="008" uuid="008" muid="008" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD05/SD05-008.png">SD05</set>
          <token>0</token>
          <tablerow>2</tablerow>
       </card>
 
       <card>
-         <name>Fairy Circle</name>
-         <text>Put 3 Fairies into your EX area.  [Fairies are 1pp 1/1 Forest Fairy followers.]</text>
+         <name>Undead King</name>
+         <text>Fanfare: Choose up to 2 followers in your graveyard. Add them to your hand.</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Follower</type>
+            <maintype>Follower</maintype>
+            <manacost>6</manacost>
+            <cmc>6</cmc>
+            <colors>Nightmare</colors>
+            <coloridentity>Nightmare</coloridentity>
+            <format-standard>legal</format-standard>
+            <pt>6/6</pt>
+         </prop>
+         <set rarity="BR" num="009" uuid="009" muid="009" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD05/SD05-009.png">SD05</set>
+         <token>0</token>
+         <tablerow>2</tablerow>
+      </card>
+
+      <card>
+         <name>Lesser Mummy</name>
+         <text>Evolve (1): Evolve this follower. Fanfare: [Necrocharge_10] Gain [Storm]. (If there are at least 10 cards in your graveyard, the effects after [Necrocharge_10] activate.)</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Follower</type>
+            <maintype>Follower</maintype>
+            <manacost>2</manacost>
+            <cmc>2</cmc>
+            <colors>Nightmare</colors>
+            <coloridentity>Nightmare</coloridentity>
+            <format-standard>legal</format-standard>
+            <pt>2/2</pt>
+         </prop>
+         <set rarity="BR" num="010" uuid="010" muid="010" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD05/SD05-010.png">SD05</set>
+         <related attach="1">Lesser Mummy (Evolved)</related>
+         <token>0</token>
+         <tablerow>2</tablerow>
+      </card>
+
+      <card>
+         <name>Lilith</name>
+         <text>Evolve (1): Evolve this follower. Fanfare: Put a Forest Bat into your EX area.  [Forest Bats are 1pp 1/1 Nightmare Vampire followers.]</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Follower</type>
+            <maintype>Follower</maintype>
+            <manacost>2</manacost>
+            <cmc>2</cmc>
+            <colors>Nightmare</colors>
+            <coloridentity>Nightmare</coloridentity>
+            <format-standard>legal</format-standard>
+            <pt>2/2</pt>
+         </prop>
+         <set rarity="BR" num="012" uuid="012" muid="012" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD05/SD05-012.png">SD05</set>
+         <related attach="1">Lilith (Evolved)</related>
+         <related>Forest Bat</related>
+         <token>0</token>
+         <tablerow>2</tablerow>
+      </card>
+
+      <card>
+         <name>Razory Claw</name>
+         <text>[Quick] Deal 2 damage to your leader. Choose an enemy leader or an enemy follower. Deal 3 damage to it.</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Spell</type>
+            <maintype>Spell</maintype>
+            <manacost>2</manacost>
+            <cmc>2</cmc>
+            <colors>Nightmare</colors>
+            <coloridentity>Nightmare</coloridentity>
+            <format-standard>legal</format-standard>
+         </prop>
+         <set rarity="BR" num="014" uuid="014" muid="014" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD05/SD05-014.png">SD05</set>
+         <token>0</token>
+         <tablerow>1</tablerow>
+      </card>
+
+      <card>
+         <name>Undying Resentment</name>
+         <text>[Quick] Choose an enemy follower. Deal 3 damage to it. Put the top card of your deck into your graveyard.</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Spell</type>
+            <maintype>Spell</maintype>
+            <manacost>2</manacost>
+            <cmc>2</cmc>
+            <colors>Nightmare</colors>
+            <coloridentity>Nightmare</coloridentity>
+            <format-standard>legal</format-standard>
+         </prop>
+         <set rarity="BR" num="015" uuid="015" muid="015" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD05/SD05-015.png">SD05</set>
+         <token>0</token>
+         <tablerow>1</tablerow>
+      </card>
+
+      <card>
+         <name>Summon Bloodkin</name>
+         <text>Summon a Forest Bat. Put a Forest Bat into your EX area.  [Forest Bats are 1pp 1/1 Nightmare Vampire followers.]</text>
          <prop>
             <layout>normal</layout>
             <side>front</side>
@@ -5433,19 +5858,379 @@
             <maintype>Spell</maintype>
             <manacost>1</manacost>
             <cmc>1</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
+            <colors>Nightmare</colors>
+            <coloridentity>Nightmare</coloridentity>
             <format-standard>legal</format-standard>
          </prop>
-         <set rarity="BR" num="014" uuid="014" muid="014" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-014.png">SD01</set>
-         <related>Fairy</related>
+         <set rarity="BR" num="016" uuid="016" muid="016" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD05/SD05-016.png">SD05</set>
+         <related>Forest Bat</related>
          <token>0</token>
          <tablerow>1</tablerow>
       </card>
 
       <card>
-         <name>Woodland Refuge</name>
-         <text>Fanfare: Choose an allied follower with the Fairy trait. Give it +1 attack. Main Phase: [Pay 1pp and Act this card]: Return this card to your hand.</text>
+         <name>Fighter</name>
+         <text>-</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Follower</type>
+            <maintype>Follower</maintype>
+            <manacost>2</manacost>
+            <cmc>2</cmc>
+            <colors>Neutral</colors>
+            <coloridentity>Neutral</coloridentity>
+            <format-standard>legal</format-standard>
+            <pt>2/3</pt>
+         </prop>
+         <set rarity="BR" num="017" uuid="017" muid="017" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD05/SD05-017.png">SD05</set>
+         <token>0</token>
+         <tablerow>2</tablerow>
+      </card>
+
+      <card>
+         <name>Goliath</name>
+         <text>Evolve (2): Evolve this follower.</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Follower</type>
+            <maintype>Follower</maintype>
+            <manacost>3</manacost>
+            <cmc>3</cmc>
+            <colors>Neutral</colors>
+            <coloridentity>Neutral</coloridentity>
+            <format-standard>legal</format-standard>
+            <pt>3/4</pt>
+         </prop>
+         <set rarity="BR" num="018" uuid="018" muid="018" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD05/SD05-018.png">SD05</set>
+         <related attach="1">Goliath (Evolved)</related>
+         <token>0</token>
+         <tablerow>2</tablerow>
+      </card>
+
+      <card>
+         <name>Angelic Sword Maiden</name>
+         <text>[Ward] (When it comes into play or during your end phase, you can Act this card. Your opponent cannot attack anything other than followers with [Ward] in the Act state.)</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Follower</type>
+            <maintype>Follower</maintype>
+            <manacost>5</manacost>
+            <cmc>5</cmc>
+            <colors>Neutral</colors>
+            <coloridentity>Neutral</coloridentity>
+            <format-standard>legal</format-standard>
+            <pt>4/6</pt>
+         </prop>
+         <set rarity="BR" num="020" uuid="020" muid="020" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD05/SD05-020.png">SD05</set>
+         <token>0</token>
+         <tablerow>2</tablerow>
+      </card>
+
+      <card>
+         <name>Playful Necromancer (Evolved)</name>
+         <text>Evolve: Summon 3 Ghosts.  [Ghosts are 1pp 1/1 Nightmare Deceased followers with [Storm] and banish during your end phase.]</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Follower / Evolve</type>
+            <maintype>Follower / Evolve</maintype>
+            <manacost>-</manacost>
+            <cmc>-</cmc>
+            <colors>Nightmare</colors>
+            <coloridentity>Nightmare</coloridentity>
+            <format-standard>banned</format-standard>
+            <pt>4/4</pt>
+         </prop>
+         <set rarity="SR" num="004" uuid="004" muid="004" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD05/SD05-004.png">TK</set>
+         <token>0</token>
+         <tablerow>2</tablerow>
+      </card>
+
+      <card>
+         <name>Lesser Mummy (Evolved)</name>
+         <text>Strike: Summon a Ghost.  [Ghosts are 1pp 1/1 Nightmare Deceased followers with [Storm] and banish during your end phase.]</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Follower / Evolve</type>
+            <maintype>Follower / Evolve</maintype>
+            <manacost>-</manacost>
+            <cmc>-</cmc>
+            <colors>Nightmare</colors>
+            <coloridentity>Nightmare</coloridentity>
+            <format-standard>banned</format-standard>
+            <pt>3/3</pt>
+         </prop>
+         <set rarity="BR" num="011" uuid="011" muid="011" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD05/SD05-011.png">TK</set>
+         <token>0</token>
+         <tablerow>2</tablerow>
+      </card>
+
+      <card>
+         <name>Lilith (Evolved)</name>
+         <text>Strike: Add 2 to your leader's defense.</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Follower / Evolve</type>
+            <maintype>Follower / Evolve</maintype>
+            <manacost>-</manacost>
+            <cmc>-</cmc>
+            <colors>Nightmare</colors>
+            <coloridentity>Nightmare</coloridentity>
+            <format-standard>banned</format-standard>
+            <pt>3/3</pt>
+         </prop>
+         <set rarity="BR" num="013" uuid="013" muid="013" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD05/SD05-013.png">TK</set>
+         <token>0</token>
+         <tablerow>2</tablerow>
+      </card>
+
+      <card>
+         <name>Goliath (Evolved)</name>
+         <text>-</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Follower / Evolve</type>
+            <maintype>Follower / Evolve</maintype>
+            <manacost>-</manacost>
+            <cmc>-</cmc>
+            <colors>Neutral</colors>
+            <coloridentity>Neutral</coloridentity>
+            <format-standard>banned</format-standard>
+            <pt>5/6</pt>
+         </prop>
+         <set rarity="BR" num="019" uuid="019" muid="019" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD05/SD05-019.png">TK</set>
+         <token>0</token>
+         <tablerow>2</tablerow>
+      </card>
+
+      <card>
+         <name>Skullfane</name>
+         <text>Whenever an allied amulet leaves play, deal 2 damage to all enemy leaders and all enemy followers. Fanfare: Look at 4 cards from the top of your deck. You may put 1 amulet from among them into play. Put the rest into your graveyard.</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Follower</type>
+            <maintype>Follower</maintype>
+            <manacost>7</manacost>
+            <cmc>7</cmc>
+            <colors>Haven</colors>
+            <coloridentity>Haven</coloridentity>
+            <format-standard>legal</format-standard>
+            <pt>6/6</pt>
+         </prop>
+         <set rarity="LG" num="001" uuid="001" muid="001" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD06/SD06-001.png">SD06</set>
+         <token>0</token>
+         <tablerow>2</tablerow>
+      </card>
+
+      <card>
+         <name>Hare of Illusions</name>
+         <text>Main Phase: [Act this card and Put it into your graveyard]: Choose an enemy follower. Act it. Main Phase: [Pay 10pp and Act this card and Put it into your graveyard]: Banish all followers.</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Amulet</type>
+            <maintype>Amulet</maintype>
+            <manacost>0</manacost>
+            <cmc>0</cmc>
+            <colors>Haven</colors>
+            <coloridentity>Haven</coloridentity>
+            <format-standard>legal</format-standard>
+         </prop>
+         <set rarity="GR" num="002" uuid="002" muid="002" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD06/SD06-002.png">SD06</set>
+         <token>0</token>
+         <tablerow>2</tablerow>
+      </card>
+
+      <card>
+         <name>Priest of the Cudgel</name>
+         <text>Evolve (1): Evolve this follower.</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Follower</type>
+            <maintype>Follower</maintype>
+            <manacost>3</manacost>
+            <cmc>3</cmc>
+            <colors>Haven</colors>
+            <coloridentity>Haven</coloridentity>
+            <format-standard>legal</format-standard>
+            <pt>3/3</pt>
+         </prop>
+         <set rarity="SR" num="003" uuid="003" muid="003" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD06/SD06-003.png">SD06</set>
+         <related attach="1">Priest of the Cudgel (Evolved)</related>
+         <token>0</token>
+         <tablerow>2</tablerow>
+      </card>
+
+      <card>
+         <name>Acolyte's Light</name>
+         <text>[Quick] Choose an enemy follower. Banish it. Add 2 to your leader's defense.</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Spell</type>
+            <maintype>Spell</maintype>
+            <manacost>4</manacost>
+            <cmc>4</cmc>
+            <colors>Haven</colors>
+            <coloridentity>Haven</coloridentity>
+            <format-standard>legal</format-standard>
+         </prop>
+         <set rarity="SR" num="005" uuid="005" muid="005" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD06/SD06-005.png">SD06</set>
+         <token>0</token>
+         <tablerow>1</tablerow>
+      </card>
+
+      <card>
+         <name>Dual Flames</name>
+         <text>Fanfare: Summon a Holyflame Tiger. Main Phase: [Pay 2pp and Act this card and Put it into your graveyard]: Summon a Holyflame Tiger.   [Holyflame Tigers are 4pp 4/4 Haven Beast followers with [Rush].]</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Amulet</type>
+            <maintype>Amulet</maintype>
+            <manacost>4</manacost>
+            <cmc>4</cmc>
+            <colors>Haven</colors>
+            <coloridentity>Haven</coloridentity>
+            <format-standard>legal</format-standard>
+         </prop>
+         <set rarity="SR" num="006" uuid="006" muid="006" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD06/SD06-006.png">SD06</set>
+         <related>Holyflame Tiger</related>
+         <token>0</token>
+         <tablerow>2</tablerow>
+      </card>
+
+      <card>
+         <name>Cruel Priestess</name>
+         <text>Fanfare: Choose an amulet that costs 5 play points or less from your graveyard. Put it into play.</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Follower</type>
+            <maintype>Follower</maintype>
+            <manacost>4</manacost>
+            <cmc>4</cmc>
+            <colors>Haven</colors>
+            <coloridentity>Haven</coloridentity>
+            <format-standard>legal</format-standard>
+            <pt>3/3</pt>
+         </prop>
+         <set rarity="BR" num="007" uuid="007" muid="007" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD06/SD06-007.png">SD06</set>
+         <token>0</token>
+         <tablerow>2</tablerow>
+      </card>
+
+      <card>
+         <name>Snake Priestess</name>
+         <text>[Ward] (When it comes into play or during your end phase, you can Act this card. Your opponent cannot attack anything other than followers with [Ward] in the Act state.)</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Follower</type>
+            <maintype>Follower</maintype>
+            <manacost>1</manacost>
+            <cmc>1</cmc>
+            <colors>Haven</colors>
+            <coloridentity>Haven</coloridentity>
+            <format-standard>legal</format-standard>
+            <pt>1/3</pt>
+         </prop>
+         <set rarity="BR" num="008" uuid="008" muid="008" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD06/SD06-008.png">SD06</set>
+         <token>0</token>
+         <tablerow>2</tablerow>
+      </card>
+
+      <card>
+         <name>Ardent Nun</name>
+         <text>Evolve (1): Evolve this follower. [Ward] During your opponent’s turn, this follower deals +1 damage.</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Follower</type>
+            <maintype>Follower</maintype>
+            <manacost>2</manacost>
+            <cmc>2</cmc>
+            <colors>Haven</colors>
+            <coloridentity>Haven</coloridentity>
+            <format-standard>legal</format-standard>
+            <pt>2/2</pt>
+         </prop>
+         <set rarity="BR" num="009" uuid="009" muid="009" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD06/SD06-009.png">SD06</set>
+         <related attach="1">Ardent Nun (Evolved)</related>
+         <token>0</token>
+         <tablerow>2</tablerow>
+      </card>
+
+      <card>
+         <name>Guardian Nun</name>
+         <text>Evolve (1): Evolve this follower. [Ward] Fanfare: If any allied amulets are in play, gain +1 defense.</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Follower</type>
+            <maintype>Follower</maintype>
+            <manacost>3</manacost>
+            <cmc>3</cmc>
+            <colors>Haven</colors>
+            <coloridentity>Haven</coloridentity>
+            <format-standard>legal</format-standard>
+            <pt>3/3</pt>
+         </prop>
+         <set rarity="BR" num="011" uuid="011" muid="011" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD06/SD06-011.png">SD06</set>
+         <related attach="1">Guardian Nun (Evolved)</related>
+         <token>0</token>
+         <tablerow>2</tablerow>
+      </card>
+
+      <card>
+         <name>Hallowed Dogma</name>
+         <text>[Quick] Look at 5 cards from the top of your deck. You may reveal an amulet from among them and add it to your hand. Put the rest on the bottom of your deck in any order.</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Spell</type>
+            <maintype>Spell</maintype>
+            <manacost>1</manacost>
+            <cmc>1</cmc>
+            <colors>Haven</colors>
+            <coloridentity>Haven</coloridentity>
+            <format-standard>legal</format-standard>
+         </prop>
+         <set rarity="BR" num="013" uuid="013" muid="013" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD06/SD06-013.png">SD06</set>
+         <token>0</token>
+         <tablerow>1</tablerow>
+      </card>
+
+      <card>
+         <name>Death Sentence</name>
+         <text>This card comes into play in the Act state. Main Phase: [Act this card and Put it into the graveyard]: Choose an enemy follower. Destroy it.</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Amulet</type>
+            <maintype>Amulet</maintype>
+            <manacost>3</manacost>
+            <cmc>3</cmc>
+            <colors>Haven</colors>
+            <coloridentity>Haven</coloridentity>
+            <format-standard>legal</format-standard>
+         </prop>
+         <set rarity="BR" num="014" uuid="014" muid="014" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD06/SD06-014.png">SD06</set>
+         <token>0</token>
+         <tablerow>2</tablerow>
+      </card>
+
+      <card>
+         <name>Pinion Prayer</name>
+         <text>Main Phase: [Pay 1pp and Act this card and Put it into the graveyard]: Summon a Holy Falcon.  [Holy Falcons are 3pp 2/2 Haven Bird followers with [Storm].]</text>
          <prop>
             <layout>normal</layout>
             <side>front</side>
@@ -5453,53 +6238,73 @@
             <maintype>Amulet</maintype>
             <manacost>1</manacost>
             <cmc>1</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
+            <colors>Haven</colors>
+            <coloridentity>Haven</coloridentity>
             <format-standard>legal</format-standard>
          </prop>
-         <set rarity="BR" num="015" uuid="015" muid="015" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-015.png">SD01</set>
-         <related>Fairy</related>
+         <set rarity="BR" num="015" uuid="015" muid="015" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD06/SD06-015.png">SD06</set>
+         <related>Holy Falcon</related>
          <token>0</token>
          <tablerow>2</tablerow>
       </card>
 
       <card>
-         <name>Sylvan Justice</name>
-         <text>[Quick] Choose an enemy follower. Deal 3 damage to it. Put a Fairy into your EX area.  [Fairies are 1pp 1/1 Forest Fairy followers.]</text>
+         <name>Beastly Vow</name>
+         <text>This card comes into play in the Act state. Main Phase: [Pay 1pp and Act this card and Put it into the graveyard]: Summon a Holyflame Tiger.  [Holyflame Tigers are 4pp 4/4 Haven Beast followers with [Rush].]</text>
          <prop>
             <layout>normal</layout>
             <side>front</side>
-            <type>Spell</type>
-            <maintype>Spell</maintype>
+            <type>Amulet</type>
+            <maintype>Amulet</maintype>
             <manacost>2</manacost>
             <cmc>2</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
+            <colors>Haven</colors>
+            <coloridentity>Haven</coloridentity>
             <format-standard>legal</format-standard>
          </prop>
-         <set rarity="BR" num="016" uuid="016" muid="016" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-016.png">SD01</set>
-         <related>Fairy</related>
+         <set rarity="BR" num="016" uuid="016" muid="016" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD06/SD06-016.png">SD06</set>
+         <related>Holyflame Tiger</related>
          <token>0</token>
-         <tablerow>1</tablerow>
+         <tablerow>2</tablerow>
       </card>
 
       <card>
-         <name>Goblin</name>
-         <text>Evolve (4): Evolve this follower.</text>
+         <name>Angelic Sword Maiden</name>
+         <text>[Ward] (When it comes into play or during your end phase, you can Act this card. Your opponent cannot attack anything other than followers with [Ward] in the Act state.)</text>
          <prop>
             <layout>normal</layout>
             <side>front</side>
             <type>Follower</type>
             <maintype>Follower</maintype>
-            <manacost>1</manacost>
-            <cmc>1</cmc>
+            <manacost>5</manacost>
+            <cmc>5</cmc>
             <colors>Neutral</colors>
             <coloridentity>Neutral</coloridentity>
             <format-standard>legal</format-standard>
-            <pt>2/2</pt>
+            <pt>4/6</pt>
          </prop>
-         <set rarity="BR" num="017" uuid="017" muid="017" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-017.png">SD01</set>
-         <related attach="1">Goblin (Evolved)</related>
+         <set rarity="BR" num="017" uuid="017" muid="017" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD06/SD06-017.png">SD06</set>
+         <token>0</token>
+         <tablerow>2</tablerow>
+      </card>
+
+      <card>
+         <name>Healing Angel</name>
+         <text>Evolve (1): Evolve this follower. Fanfare: Add 1 to your leader's defense.</text>
+         <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Follower</type>
+            <maintype>Follower</maintype>
+            <manacost>3</manacost>
+            <cmc>3</cmc>
+            <colors>Neutral</colors>
+            <coloridentity>Neutral</coloridentity>
+            <format-standard>legal</format-standard>
+            <pt>2/4</pt>
+         </prop>
+         <set rarity="BR" num="018" uuid="018" muid="018" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD06/SD06-018.png">SD06</set>
+         <related attach="1">Healing Angel (Evolved)</related>
          <token>0</token>
          <tablerow>2</tablerow>
       </card>
@@ -5518,33 +6323,14 @@
             <coloridentity>Neutral</coloridentity>
             <format-standard>legal</format-standard>
          </prop>
-         <set rarity="BR" num="019" uuid="019" muid="019" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-019.png">SD01</set>
+         <set rarity="BR" num="020" uuid="020" muid="020" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD06/SD06-020.png">SD06</set>
          <token>0</token>
          <tablerow>1</tablerow>
       </card>
 
       <card>
-         <name>Angelic Barrage</name>
-         <text>[Quick] Deal 1 damage to all enemy followers.</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Spell</type>
-            <maintype>Spell</maintype>
-            <manacost>1</manacost>
-            <cmc>1</cmc>
-            <colors>Neutral</colors>
-            <coloridentity>Neutral</coloridentity>
-            <format-standard>legal</format-standard>
-         </prop>
-         <set rarity="BR" num="020" uuid="020" muid="020" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-020.png">SD01</set>
-         <token>0</token>
-         <tablerow>1</tablerow>
-      </card>
-
-      <card>
-         <name>Rose Gardener (Evolved)</name>
-         <text>Evolve: Choose an enemy follower. Return it to the opponent's hand. [Combo_3] Draw a card. (Token cards that are returned to the hand are removed from the game.)</text>
+         <name>Priest of the Cudgel (Evolved)</name>
+         <text>Evolve: Choose an enemy follower with 3 or less defense. Banish it.</text>
          <prop>
             <layout>normal</layout>
             <side>front</side>
@@ -5552,19 +6338,19 @@
             <maintype>Follower / Evolve</maintype>
             <manacost>-</manacost>
             <cmc>-</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
+            <colors>Haven</colors>
+            <coloridentity>Haven</coloridentity>
             <format-standard>banned</format-standard>
             <pt>4/4</pt>
          </prop>
-         <set rarity="SR" num="004" uuid="004" muid="004" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-004.png">SD01</set>
+         <set rarity="SR" num="004" uuid="004" muid="004" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD06/SD06-004.png">TK</set>
          <token>0</token>
          <tablerow>2</tablerow>
       </card>
 
       <card>
-         <name>Treant (Evolved)</name>
-         <text>-</text>
+         <name>Ardent Nun (Evolved)</name>
+         <text>[Ward] During your opponent's turn, this follower deals +2 damage.</text>
          <prop>
             <layout>normal</layout>
             <side>front</side>
@@ -5572,19 +6358,19 @@
             <maintype>Follower / Evolve</maintype>
             <manacost>-</manacost>
             <cmc>-</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
+            <colors>Haven</colors>
+            <coloridentity>Haven</coloridentity>
             <format-standard>banned</format-standard>
-            <pt>5/5</pt>
+            <pt>3/3</pt>
          </prop>
-         <set rarity="BR" num="010" uuid="010" muid="010" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-010.png">SD01</set>
+         <set rarity="BR" num="010" uuid="010" muid="010" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD06/SD06-010.png">TK</set>
          <token>0</token>
          <tablerow>2</tablerow>
       </card>
 
       <card>
-         <name>Water Fairy (Evolved)</name>
-         <text>Evolve: Summon a Fairy. Last Words: Put a Fairy into your EX area.</text>
+         <name>Guardian Nun (Evolved)</name>
+         <text>[Ward] Evolve: Add 2 to your leader's defense.</text>
          <prop>
             <layout>normal</layout>
             <side>front</side>
@@ -5592,425 +6378,19 @@
             <maintype>Follower / Evolve</maintype>
             <manacost>-</manacost>
             <cmc>-</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>banned</format-standard>
-            <pt>2/2</pt>
-         </prop>
-         <set rarity="BR" num="012" uuid="012" muid="012" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-012.png">SD01</set>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Goblin (Evolved)</name>
-         <text>-</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Follower / Evolve</type>
-            <maintype>Follower / Evolve</maintype>
-            <manacost>-</manacost>
-            <cmc>-</cmc>
-            <colors>Neutral</colors>
-            <coloridentity>Neutral</coloridentity>
+            <colors>Haven</colors>
+            <coloridentity>Haven</coloridentity>
             <format-standard>banned</format-standard>
             <pt>4/4</pt>
          </prop>
-         <set rarity="BR" num="018" uuid="018" muid="018" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-018.png">SD01</set>
+         <set rarity="BR" num="012" uuid="012" muid="012" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD06/SD06-012.png">TK</set>
          <token>0</token>
          <tablerow>2</tablerow>
       </card>
 
       <card>
-         <name>Aria, Fairy Princess</name>
-         <text>[Ward] While this follower is in play, all other allied followers with the Fairy trait have [Rush]. Fanfare: From among 9 Fairies, summon any number of them. Put any number of them into your EX Area.</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Follower</type>
-            <maintype>Follower</maintype>
-            <manacost>6</manacost>
-            <cmc>6</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>legal</format-standard>
-            <pt>5/5</pt>
-         </prop>
-         <set rarity="LG" num="001" uuid="001" muid="001" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-001.png">SD01</set>
-         <related>Fairy</related>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Titania's Sanctuary</name>
-         <text>While this amulet is in play, all allied tokens with the Fairy trait have [Direct Attack]. Whenever an allied token with the Fairy trait comes into play, give it +1/+1. Fanfare: Give all allied tokens with the Fairy trait +1/+1.</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Amulet</type>
-            <maintype>Amulet</maintype>
-            <manacost>2</manacost>
-            <cmc>2</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>legal</format-standard>
-         </prop>
-         <set rarity="GR" num="002" uuid="002" muid="002" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-002.png">SD01</set>
-         <related>Fairy</related>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Rose Gardener</name>
-         <text>Evolve (1): Evolve this follower.</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Follower</type>
-            <maintype>Follower</maintype>
-            <manacost>3</manacost>
-            <cmc>3</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>legal</format-standard>
-            <pt>3/3</pt>
-         </prop>
-         <set rarity="SR" num="003" uuid="003" muid="003" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-003.png">SD01</set>
-         <related attach="1">Rose Gardener (Evolved)</related>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Waltzing Fairy</name>
-         <text>Fanfare and Last Words: Put a Fairy into your EX area.  [Fairies are 1pp 1/1 Forest Fairy followers.]</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Follower</type>
-            <maintype>Follower</maintype>
-            <manacost>3</manacost>
-            <cmc>3</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>legal</format-standard>
-            <pt>3/3</pt>
-         </prop>
-         <set rarity="SR" num="005" uuid="005" muid="005" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-005.png">SD01</set>
-         <related>Fairy</related>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Fairy Caster</name>
-         <text>Fanfare: Summon 3 Fairies until your board is full. Put the remaining that were not summoned into your EX area.  [Fairies are 1pp 1/1 Forest Fairy followers.]</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Follower</type>
-            <maintype>Follower</maintype>
-            <manacost>4</manacost>
-            <cmc>4</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>legal</format-standard>
-            <pt>3/3</pt>
-         </prop>
-         <set rarity="SR" num="006" uuid="006" muid="006" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-006.png">SD01</set>
-         <related>Fairy</related>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Elf Metallurgist</name>
-         <text>Fanfare: Choose an enemy follower. Deal 1 damage to it. [Combo_3] Deal 3 damage instead. (If at least 3 cards have been played this turn including this card, the effects after [Combo_3] activate.)</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Follower</type>
-            <maintype>Follower</maintype>
-            <manacost>2</manacost>
-            <cmc>2</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>legal</format-standard>
-            <pt>3/2</pt>
-         </prop>
-         <set rarity="BR" num="007" uuid="007" muid="007" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-007.png">SD01</set>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Okami</name>
-         <text>Whenever another allied follower comes into play, gain +1/+1.</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Follower</type>
-            <maintype>Follower</maintype>
-            <manacost>4</manacost>
-            <cmc>4</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>legal</format-standard>
-            <pt>5/5</pt>
-         </prop>
-         <set rarity="BR" num="008" uuid="008" muid="008" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-008.png">SD01</set>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Treant</name>
-         <text>Evolve (2): Evolve this follower. Fanfare: [Combo_3] Change this card's Evolve cost to 0. (If at least 3 cards have been played this turn including this card, the effects after [Combo_3] activate.)</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Follower</type>
-            <maintype>Follower</maintype>
-            <manacost>3</manacost>
-            <cmc>3</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>legal</format-standard>
-            <pt>3/3</pt>
-         </prop>
-         <set rarity="BR" num="009" uuid="009" muid="009" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-009.png">SD01</set>
-         <related attach="1">Treant (Evolved)</related>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Water Fairy</name>
-         <text>Evolve (2): Evolve this follower. Last Words: Put a Fairy into your EX area.  [Fairies are 1pp 1/1 Forest Fairy followers.]</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Follower</type>
-            <maintype>Follower</maintype>
-            <manacost>1</manacost>
-            <cmc>1</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>legal</format-standard>
-            <pt>1/1</pt>
-         </prop>
-         <set rarity="BR" num="011" uuid="011" muid="011" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-011.png">SD01</set>
-         <related attach="1">Water Fairy (Evolved)</related>
-         <related>Fairy</related>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Elf Wanderer</name>
-         <text>[Direct Attack] (Followers with [Direct Attack] can attack enemy followers in the Stand state.) Ignore [Ward] while attacking.</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Follower</type>
-            <maintype>Follower</maintype>
-            <manacost>2</manacost>
-            <cmc>2</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>legal</format-standard>
-            <pt>2/3</pt>
-         </prop>
-         <set rarity="BR" num="013" uuid="013" muid="013" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-013.png">SD01</set>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Fairy Circle</name>
-         <text>Put 3 Fairies into your EX area.  [Fairies are 1pp 1/1 Forest Fairy followers.]</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Spell</type>
-            <maintype>Spell</maintype>
-            <manacost>1</manacost>
-            <cmc>1</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>legal</format-standard>
-         </prop>
-         <set rarity="BR" num="014" uuid="014" muid="014" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-014.png">SD01</set>
-         <related>Fairy</related>
-         <token>0</token>
-         <tablerow>1</tablerow>
-      </card>
-
-      <card>
-         <name>Woodland Refuge</name>
-         <text>Fanfare: Choose an allied follower with the Fairy trait. Give it +1 attack. Main Phase: [Pay 1pp and Act this card]: Return this card to your hand.</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Amulet</type>
-            <maintype>Amulet</maintype>
-            <manacost>1</manacost>
-            <cmc>1</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>legal</format-standard>
-         </prop>
-         <set rarity="BR" num="015" uuid="015" muid="015" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-015.png">SD01</set>
-         <related>Fairy</related>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Sylvan Justice</name>
-         <text>[Quick] Choose an enemy follower. Deal 3 damage to it. Put a Fairy into your EX area.  [Fairies are 1pp 1/1 Forest Fairy followers.]</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Spell</type>
-            <maintype>Spell</maintype>
-            <manacost>2</manacost>
-            <cmc>2</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>legal</format-standard>
-         </prop>
-         <set rarity="BR" num="016" uuid="016" muid="016" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-016.png">SD01</set>
-         <related>Fairy</related>
-         <token>0</token>
-         <tablerow>1</tablerow>
-      </card>
-
-      <card>
-         <name>Goblin</name>
-         <text>Evolve (4): Evolve this follower.</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Follower</type>
-            <maintype>Follower</maintype>
-            <manacost>1</manacost>
-            <cmc>1</cmc>
-            <colors>Neutral</colors>
-            <coloridentity>Neutral</coloridentity>
-            <format-standard>legal</format-standard>
-            <pt>2/2</pt>
-         </prop>
-         <set rarity="BR" num="017" uuid="017" muid="017" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-017.png">SD01</set>
-         <related attach="1">Goblin (Evolved)</related>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Angelic Snipe</name>
-         <text>[Quick] Choose an enemy follower. Deal 2 damage to it.</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Spell</type>
-            <maintype>Spell</maintype>
-            <manacost>1</manacost>
-            <cmc>1</cmc>
-            <colors>Neutral</colors>
-            <coloridentity>Neutral</coloridentity>
-            <format-standard>legal</format-standard>
-         </prop>
-         <set rarity="BR" num="019" uuid="019" muid="019" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-019.png">SD01</set>
-         <token>0</token>
-         <tablerow>1</tablerow>
-      </card>
-
-      <card>
-         <name>Angelic Barrage</name>
-         <text>[Quick] Deal 1 damage to all enemy followers.</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Spell</type>
-            <maintype>Spell</maintype>
-            <manacost>1</manacost>
-            <cmc>1</cmc>
-            <colors>Neutral</colors>
-            <coloridentity>Neutral</coloridentity>
-            <format-standard>legal</format-standard>
-         </prop>
-         <set rarity="BR" num="020" uuid="020" muid="020" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-020.png">SD01</set>
-         <token>0</token>
-         <tablerow>1</tablerow>
-      </card>
-
-      <card>
-         <name>Rose Gardener (Evolved)</name>
-         <text>Evolve: Choose an enemy follower. Return it to the opponent's hand. [Combo_3] Draw a card. (Token cards that are returned to the hand are removed from the game.)</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Follower / Evolve</type>
-            <maintype>Follower / Evolve</maintype>
-            <manacost>-</manacost>
-            <cmc>-</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>banned</format-standard>
-            <pt>4/4</pt>
-         </prop>
-         <set rarity="SR" num="004" uuid="004" muid="004" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-004.png">SD01</set>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Treant (Evolved)</name>
-         <text>-</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Follower / Evolve</type>
-            <maintype>Follower / Evolve</maintype>
-            <manacost>-</manacost>
-            <cmc>-</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>banned</format-standard>
-            <pt>5/5</pt>
-         </prop>
-         <set rarity="BR" num="010" uuid="010" muid="010" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-010.png">SD01</set>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Water Fairy (Evolved)</name>
-         <text>Evolve: Summon a Fairy. Last Words: Put a Fairy into your EX area.</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Follower / Evolve</type>
-            <maintype>Follower / Evolve</maintype>
-            <manacost>-</manacost>
-            <cmc>-</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>banned</format-standard>
-            <pt>2/2</pt>
-         </prop>
-         <set rarity="BR" num="012" uuid="012" muid="012" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-012.png">SD01</set>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Goblin (Evolved)</name>
-         <text>-</text>
+         <name>Healing Angel (Evolved)</name>
+         <text>Evolve: Add 2 to your leader's defense.</text>
          <prop>
             <layout>normal</layout>
             <side>front</side>
@@ -6021,419 +6401,12 @@
             <colors>Neutral</colors>
             <coloridentity>Neutral</coloridentity>
             <format-standard>banned</format-standard>
-            <pt>4/4</pt>
+            <pt>3/5</pt>
          </prop>
-         <set rarity="BR" num="018" uuid="018" muid="018" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-018.png">SD01</set>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Aria, Fairy Princess</name>
-         <text>[Ward] While this follower is in play, all other allied followers with the Fairy trait have [Rush]. Fanfare: From among 9 Fairies, summon any number of them. Put any number of them into your EX Area.</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Follower</type>
-            <maintype>Follower</maintype>
-            <manacost>6</manacost>
-            <cmc>6</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>legal</format-standard>
-            <pt>5/5</pt>
-         </prop>
-         <set rarity="LG" num="001" uuid="001" muid="001" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-001.png">SD01</set>
-         <related>Fairy</related>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Titania's Sanctuary</name>
-         <text>While this amulet is in play, all allied tokens with the Fairy trait have [Direct Attack]. Whenever an allied token with the Fairy trait comes into play, give it +1/+1. Fanfare: Give all allied tokens with the Fairy trait +1/+1.</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Amulet</type>
-            <maintype>Amulet</maintype>
-            <manacost>2</manacost>
-            <cmc>2</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>legal</format-standard>
-         </prop>
-         <set rarity="GR" num="002" uuid="002" muid="002" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-002.png">SD01</set>
-         <related>Fairy</related>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Rose Gardener</name>
-         <text>Evolve (1): Evolve this follower.</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Follower</type>
-            <maintype>Follower</maintype>
-            <manacost>3</manacost>
-            <cmc>3</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>legal</format-standard>
-            <pt>3/3</pt>
-         </prop>
-         <set rarity="SR" num="003" uuid="003" muid="003" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-003.png">SD01</set>
-         <related attach="1">Rose Gardener (Evolved)</related>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Waltzing Fairy</name>
-         <text>Fanfare and Last Words: Put a Fairy into your EX area.  [Fairies are 1pp 1/1 Forest Fairy followers.]</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Follower</type>
-            <maintype>Follower</maintype>
-            <manacost>3</manacost>
-            <cmc>3</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>legal</format-standard>
-            <pt>3/3</pt>
-         </prop>
-         <set rarity="SR" num="005" uuid="005" muid="005" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-005.png">SD01</set>
-         <related>Fairy</related>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Fairy Caster</name>
-         <text>Fanfare: Summon 3 Fairies until your board is full. Put the remaining that were not summoned into your EX area.  [Fairies are 1pp 1/1 Forest Fairy followers.]</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Follower</type>
-            <maintype>Follower</maintype>
-            <manacost>4</manacost>
-            <cmc>4</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>legal</format-standard>
-            <pt>3/3</pt>
-         </prop>
-         <set rarity="SR" num="006" uuid="006" muid="006" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-006.png">SD01</set>
-         <related>Fairy</related>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Elf Metallurgist</name>
-         <text>Fanfare: Choose an enemy follower. Deal 1 damage to it. [Combo_3] Deal 3 damage instead. (If at least 3 cards have been played this turn including this card, the effects after [Combo_3] activate.)</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Follower</type>
-            <maintype>Follower</maintype>
-            <manacost>2</manacost>
-            <cmc>2</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>legal</format-standard>
-            <pt>3/2</pt>
-         </prop>
-         <set rarity="BR" num="007" uuid="007" muid="007" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-007.png">SD01</set>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Okami</name>
-         <text>Whenever another allied follower comes into play, gain +1/+1.</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Follower</type>
-            <maintype>Follower</maintype>
-            <manacost>4</manacost>
-            <cmc>4</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>legal</format-standard>
-            <pt>5/5</pt>
-         </prop>
-         <set rarity="BR" num="008" uuid="008" muid="008" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-008.png">SD01</set>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Treant</name>
-         <text>Evolve (2): Evolve this follower. Fanfare: [Combo_3] Change this card's Evolve cost to 0. (If at least 3 cards have been played this turn including this card, the effects after [Combo_3] activate.)</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Follower</type>
-            <maintype>Follower</maintype>
-            <manacost>3</manacost>
-            <cmc>3</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>legal</format-standard>
-            <pt>3/3</pt>
-         </prop>
-         <set rarity="BR" num="009" uuid="009" muid="009" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-009.png">SD01</set>
-         <related attach="1">Treant (Evolved)</related>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Water Fairy</name>
-         <text>Evolve (2): Evolve this follower. Last Words: Put a Fairy into your EX area.  [Fairies are 1pp 1/1 Forest Fairy followers.]</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Follower</type>
-            <maintype>Follower</maintype>
-            <manacost>1</manacost>
-            <cmc>1</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>legal</format-standard>
-            <pt>1/1</pt>
-         </prop>
-         <set rarity="BR" num="011" uuid="011" muid="011" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-011.png">SD01</set>
-         <related attach="1">Water Fairy (Evolved)</related>
-         <related>Fairy</related>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Elf Wanderer</name>
-         <text>[Direct Attack] (Followers with [Direct Attack] can attack enemy followers in the Stand state.) Ignore [Ward] while attacking.</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Follower</type>
-            <maintype>Follower</maintype>
-            <manacost>2</manacost>
-            <cmc>2</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>legal</format-standard>
-            <pt>2/3</pt>
-         </prop>
-         <set rarity="BR" num="013" uuid="013" muid="013" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-013.png">SD01</set>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Fairy Circle</name>
-         <text>Put 3 Fairies into your EX area.  [Fairies are 1pp 1/1 Forest Fairy followers.]</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Spell</type>
-            <maintype>Spell</maintype>
-            <manacost>1</manacost>
-            <cmc>1</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>legal</format-standard>
-         </prop>
-         <set rarity="BR" num="014" uuid="014" muid="014" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-014.png">SD01</set>
-         <related>Fairy</related>
-         <token>0</token>
-         <tablerow>1</tablerow>
-      </card>
-
-      <card>
-         <name>Woodland Refuge</name>
-         <text>Fanfare: Choose an allied follower with the Fairy trait. Give it +1 attack. Main Phase: [Pay 1pp and Act this card]: Return this card to your hand.</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Amulet</type>
-            <maintype>Amulet</maintype>
-            <manacost>1</manacost>
-            <cmc>1</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>legal</format-standard>
-         </prop>
-         <set rarity="BR" num="015" uuid="015" muid="015" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-015.png">SD01</set>
-         <related>Fairy</related>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Sylvan Justice</name>
-         <text>[Quick] Choose an enemy follower. Deal 3 damage to it. Put a Fairy into your EX area.  [Fairies are 1pp 1/1 Forest Fairy followers.]</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Spell</type>
-            <maintype>Spell</maintype>
-            <manacost>2</manacost>
-            <cmc>2</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>legal</format-standard>
-         </prop>
-         <set rarity="BR" num="016" uuid="016" muid="016" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-016.png">SD01</set>
-         <related>Fairy</related>
-         <token>0</token>
-         <tablerow>1</tablerow>
-      </card>
-
-      <card>
-         <name>Goblin</name>
-         <text>Evolve (4): Evolve this follower.</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Follower</type>
-            <maintype>Follower</maintype>
-            <manacost>1</manacost>
-            <cmc>1</cmc>
-            <colors>Neutral</colors>
-            <coloridentity>Neutral</coloridentity>
-            <format-standard>legal</format-standard>
-            <pt>2/2</pt>
-         </prop>
-         <set rarity="BR" num="017" uuid="017" muid="017" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-017.png">SD01</set>
-         <related attach="1">Goblin (Evolved)</related>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Angelic Snipe</name>
-         <text>[Quick] Choose an enemy follower. Deal 2 damage to it.</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Spell</type>
-            <maintype>Spell</maintype>
-            <manacost>1</manacost>
-            <cmc>1</cmc>
-            <colors>Neutral</colors>
-            <coloridentity>Neutral</coloridentity>
-            <format-standard>legal</format-standard>
-         </prop>
-         <set rarity="BR" num="019" uuid="019" muid="019" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-019.png">SD01</set>
-         <token>0</token>
-         <tablerow>1</tablerow>
-      </card>
-
-      <card>
-         <name>Angelic Barrage</name>
-         <text>[Quick] Deal 1 damage to all enemy followers.</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Spell</type>
-            <maintype>Spell</maintype>
-            <manacost>1</manacost>
-            <cmc>1</cmc>
-            <colors>Neutral</colors>
-            <coloridentity>Neutral</coloridentity>
-            <format-standard>legal</format-standard>
-         </prop>
-         <set rarity="BR" num="020" uuid="020" muid="020" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-020.png">SD01</set>
-         <token>0</token>
-         <tablerow>1</tablerow>
-      </card>
-
-      <card>
-         <name>Rose Gardener (Evolved)</name>
-         <text>Evolve: Choose an enemy follower. Return it to the opponent's hand. [Combo_3] Draw a card. (Token cards that are returned to the hand are removed from the game.)</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Follower / Evolve</type>
-            <maintype>Follower / Evolve</maintype>
-            <manacost>-</manacost>
-            <cmc>-</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>banned</format-standard>
-            <pt>4/4</pt>
-         </prop>
-         <set rarity="SR" num="004" uuid="004" muid="004" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-004.png">SD01</set>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Treant (Evolved)</name>
-         <text>-</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Follower / Evolve</type>
-            <maintype>Follower / Evolve</maintype>
-            <manacost>-</manacost>
-            <cmc>-</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>banned</format-standard>
-            <pt>5/5</pt>
-         </prop>
-         <set rarity="BR" num="010" uuid="010" muid="010" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-010.png">SD01</set>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Water Fairy (Evolved)</name>
-         <text>Evolve: Summon a Fairy. Last Words: Put a Fairy into your EX area.</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Follower / Evolve</type>
-            <maintype>Follower / Evolve</maintype>
-            <manacost>-</manacost>
-            <cmc>-</cmc>
-            <colors>Forest</colors>
-            <coloridentity>Forest</coloridentity>
-            <format-standard>banned</format-standard>
-            <pt>2/2</pt>
-         </prop>
-         <set rarity="BR" num="012" uuid="012" muid="012" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-012.png">SD01</set>
-         <token>0</token>
-         <tablerow>2</tablerow>
-      </card>
-
-      <card>
-         <name>Goblin (Evolved)</name>
-         <text>-</text>
-         <prop>
-            <layout>normal</layout>
-            <side>front</side>
-            <type>Follower / Evolve</type>
-            <maintype>Follower / Evolve</maintype>
-            <manacost>-</manacost>
-            <cmc>-</cmc>
-            <colors>Neutral</colors>
-            <coloridentity>Neutral</coloridentity>
-            <format-standard>banned</format-standard>
-            <pt>4/4</pt>
-         </prop>
-         <set rarity="BR" num="018" uuid="018" muid="018" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-018.png">SD01</set>
+         <set rarity="BR" num="019" uuid="019" muid="019" picurl="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD06/SD06-019.png">TK</set>
          <token>0</token>
          <tablerow>2</tablerow>
       </card>
 
    </cards>
 </cockatrice_carddatabase>
-                        
