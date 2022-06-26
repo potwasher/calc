@@ -29,7 +29,7 @@ void run_second() {
 		pp1_pup2 + pp3_pup2
 	};
 
-	// mulligan = keep orchis only
+	// mulligan = only keep orchis or ramiel
 	vector<int> mull(3);
 	int mull_redraw = 0;
 	for (int i = 0; i < 3; i++) {
