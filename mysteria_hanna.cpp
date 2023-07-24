@@ -3,7 +3,13 @@ using namespace std;
 #define uid(a, b) uniform_int_distribution<int>(a, b)(rng)
 mt19937 rng((uint32_t)chrono::steady_clock::now().time_since_epoch().count());
 
-#define FIRST 1
+const int TEST = int(1e6);
+bool FIRST = true;
+int set_hanna = 1, set_gratitude = 2, set_missile = 8;
+
+int decksz;
+int rem[10], curr[10];
+int t4founder_annegrea = 0, founder_annegrea = 0, found3 = 0, found4 = 0;
 
 enum CARD {
     founder,     // myst
@@ -17,16 +23,12 @@ enum CARD {
     insight,
     missile,
 };
-int decksz;
-int rem[10], curr[10];
-const int TEST = int(1e6);
-int t4founder_annegrea = 0, founder_annegrea = 0, found3 = 0, found4 = 0;
 
 void init() {
-    rem[founder] = 1, rem[annegrea] = 1, rem[craig] = 1, rem[hanna] = 0;
-    rem[freyja] = 3, rem[gratitude] = 1;
+    rem[founder] = 1, rem[annegrea] = 1, rem[craig] = 1, rem[hanna] = set_hanna;
+    rem[freyja] = 3, rem[gratitude] = set_gratitude;
     rem[instruction] = 3, rem[party] = 3;
-    rem[insight] = 3, rem[missile] = 6 + 1 - rem[hanna] + 3 - rem[gratitude];
+    rem[insight] = 3, rem[missile] = set_missile;
     memset(curr, 0, sizeof(curr));
     decksz = 40;
 }
@@ -92,11 +94,18 @@ void runFirst() {
     init();
     // mulligan
     vector<int> redraw;
+    int mull_grat = 0;
     for (int i = 0; i < 3; i++) {
         redraw.push_back(draw());
         if (redraw.back() != -1
             && redraw.back() <= gratitude) {
             redraw.pop_back();
+        } else if (redraw.back() == gratitude) {
+            if (curr[gratitude] - mull_grat > 1) {
+                mull_grat++;
+            } else {
+                redraw.pop_back();
+            }
         }
     }
     for (int i = 0; i < (int)redraw.size(); i++) {
@@ -125,7 +134,8 @@ void runFirst() {
     {
         draw();
         // if (curr[gratitude] > 0) {
-        if (true) {
+        if (curr[freyja] + curr[hanna] >= 2
+            || (curr[founder] + curr[annegrea] + curr[craig] > 1)) {
             if (curr[freyja] > 0) {
                 curr[freyja]--;
                 draw_mysteria();
@@ -268,11 +278,18 @@ void runSecond() {
     init();
     // mulligan
     vector<int> redraw;
+    int mull_grat = 0;
     for (int i = 0; i < 3; i++) {
         redraw.push_back(draw());
         if (redraw.back() != -1
             && redraw.back() < gratitude) {
             redraw.pop_back();
+        } else if (redraw.back() == gratitude) {
+            if (curr[gratitude] - mull_grat > 1) {
+                mull_grat++;
+            } else {
+                redraw.pop_back();
+            }
         }
     }
     for (int i = 0; i < (int)redraw.size(); i++) {
